@@ -1,0 +1,2409 @@
+,ID,style,name_en,name_ja
+3,6,simple,crab,蟹
+138,143,simple,steak,ステーキ
+163,168,simple,hamburger,ハンバーグ
+169,174,simple,pudding,ププリン
+287,292,simple,ramen,ラーメン
+319,324,simple,omelette rice,オムライス
+347,352,simple,hamburger,ハンバーグ
+553,560,simple,chicken,にわとり
+854,865,simple,sushi,寿司
+1022,1036,simple,curry,カレー
+1023,1037,simple,curry,カレー
+1025,1039,simple,curry,カレー
+1079,1094,simple,cheese,チーズ
+1094,1109,simple,french fries,ポテト
+1138,1156,simple,bread,パン
+1297,1315,simple,hamburger,ハンバーグ
+1324,1342,simple,egg,たまご
+1325,1343,simple,egg,たまご
+1326,1344,simple,egg,たまご
+1331,1349,simple,natto,納豆
+1345,1363,simple,omelette rice,オムライス
+1399,1417,simple,fried chicken,フライドチキン
+1439,1457,simple,chocolate,チョコ
+1671,1690,simple,french fries,ポテト
+1707,1726,simple,pizza,ピザ
+1721,1740,simple,strawberry,イチゴ
+1832,1851,simple,sushi,寿司
+1897,1916,simple,chocolate,チョコレート
+1906,1925,simple,pizza,ピザ
+1940,1959,simple,ice cream,アイスクリーム
+2069,2088,simple,shrimp,エビ
+2138,2157,simple,french fries,ポテト
+2199,2219,simple,sushi,寿司
+2476,2496,simple,chocolate,チョコレート
+2498,2518,simple,fried chicken,からあげ
+2576,2596,simple,omelette rice,オムライス
+2615,2635,simple,sushi,寿司
+2637,2657,simple,curry,カレー
+2645,2665,simple,omelette rice,オムライス
+2803,2825,simple,sushi,寿司
+2821,2843,simple,french fries,ポテト
+3041,3063,simple,sushi,寿司
+3121,3145,simple,egg,たまご
+3258,3282,simple,sushi,寿司
+3326,3350,simple,meat,肉
+3351,3375,simple,ramen,ラーメン
+3369,3393,simple,natto,納豆
+3419,3443,simple,chocolate,チョコレート
+3494,3518,simple,omelette rice,オムライス
+3527,3551,simple,ice cream,アイスクリーム
+3535,3559,simple,natto,納豆
+3551,3575,simple,ice cream,アイスクリーム
+3622,3646,simple,omelette rice,オムライス
+3631,3655,simple,omelette rice,オムライス
+3652,3676,simple,cheese,チーズ
+3655,3679,simple,strawberry,いちご
+3667,3691,simple,pizza,ピザ
+3692,3716,simple,meat,肉
+3729,3753,simple,cheese,チーズ
+3815,3839,simple,bread,パン
+3857,3881,simple,ramen,ラーメン
+3860,3884,simple,strawberry,いちご
+3906,3930,simple,strawberry,いちご
+3985,4009,simple,egg,たまご
+4083,4107,simple,omelette rice,オムライス
+4096,4120,simple,french fries,ポテト
+4253,4278,simple,sushi,寿司
+4348,4373,simple,steak,ステーキ
+4360,4385,simple,steak,ステーキ
+4419,4444,simple,french fries,ポテト
+4460,4485,simple,ramen,ラーメン
+4615,4640,simple,steak,ステーキ
+4678,4703,simple,fried chicken,からあげ
+4752,4777,simple,fried chicken,フライドチキン
+4967,4992,simple,chocolate,チョコ
+4974,5000,simple,natto,納豆
+4984,5010,simple,ramen,ラーメン
+5007,5033,simple,egg,卵子
+5033,5059,simple,ramen,ラーメン
+5169,5195,simple,bread,パン
+5346,5372,simple,hamburger,ハンバーグ
+5401,5427,simple,curry,カレー
+5468,5494,simple,chocolate,チョコレート
+5530,5556,simple,omelette rice,オムライス
+5549,5575,simple,ramen,沖縄そば
+5564,5590,simple,curry,カレー
+5567,5593,simple,strawberry,苺
+5582,5608,simple,hamburger,ハンバーグ
+5791,5817,simple,rice,ごはん
+5924,5950,simple,shrimp,エビ
+5958,5984,simple,steak,ステーキ
+5959,5985,simple,sushi,寿司
+6078,6105,simple,rice,米
+6216,6243,simple,crab,カニ
+6284,6311,simple,chocolate,ちょこ
+6370,6397,simple,sushi,寿司
+6434,6461,simple,french fries,ポテト
+6513,6540,simple,chocolate,チョコ
+6582,6609,simple,natto,納豆
+6871,6898,simple,pizza,ピザ
+6873,6900,simple,ramen,ラーメン
+6881,6908,simple,strawberry,いちご
+6946,6974,simple,bread,パン
+7043,7071,simple,strawberry,いちご
+7189,7217,simple,curry,カレー
+7258,7286,simple,rice,ライス
+7289,7317,simple,rice,米
+7353,7381,simple,meat,肉
+7377,7405,simple,ramen,ラーメン
+7400,7428,simple,bread,パン
+7416,7444,simple,bread,パン
+7443,7471,simple,chicken,チキン
+7462,7490,simple,pizza,ピッツァ
+7473,7501,simple,bread,パン
+7480,7508,simple,bread,パン
+7492,7520,simple,fried chicken,フライドチキン
+7495,7523,simple,bread,パン
+7510,7538,simple,bread,パン
+7526,7554,simple,bread,パン
+7535,7563,simple,bread,パン
+7537,7565,simple,sushi,寿司
+7548,7576,simple,bread,パン
+7561,7589,simple,bread,パン
+7585,7613,simple,ramen,ラーメン
+7617,7645,simple,sushi,寿司
+7698,7726,simple,omelette rice,オムライス
+7821,7849,simple,chocolate,チョコレート
+7905,7933,simple,cheese,チーズ
+7943,7971,simple,rice,米
+7945,7973,simple,pizza,ピザ
+7954,7982,simple,french fries,ポテト
+7976,8004,simple,omelette rice,オムライス
+7977,8005,simple,grilled meat,焼き肉
+7983,8011,simple,bread,パン
+8007,8035,simple,rice,ごはん
+8048,8076,simple,cheese,チーズ
+8156,8184,simple,ramen,ラーメン
+8187,8215,simple,ramen,ラーメン
+8272,8300,simple,chocolate,チョコレート
+8282,8310,simple,sushi,寿司
+8288,8316,simple,chicken,チキン
+8324,8352,simple,cheese,チーズ
+8329,8357,simple,omelette rice,オムライス
+8337,8365,simple,chicken,ニワトリ
+8373,8401,simple,steak,ステーキ
+8375,8403,simple,pizza,ピザ
+8389,8417,simple,natto,納豆
+8445,8473,simple,ramen,ラーメン
+8577,8605,simple,egg,卵
+8649,8677,simple,shrimp,えび
+8847,8875,simple,cheese,チーズ
+8859,8887,simple,hamburger,ハンバーグ
+8905,8933,simple,pizza,ピザ
+8978,9006,simple,shrimp,えび
+9016,9044,simple,ramen,ラーメン
+9044,9072,simple,cheese,チーズ
+9132,9160,simple,cheese,チーズ
+9214,9242,simple,ramen,ラーメン
+9393,9421,simple,chocolate,チョコ
+9530,9558,simple,cheese,チーズ
+9575,9603,simple,sushi,寿司
+10041,10070,simple,fried chicken,からあげ
+10060,10090,simple,steak,ステーキ
+10175,10205,simple,sushi,寿司
+10183,10213,simple,omelette rice,オムライス
+10336,10366,simple,ice cream,アイスクリーム
+10342,10372,simple,strawberry,いちご
+10347,10377,simple,chocolate,チョコレート
+10353,10383,simple,strawberry,苺
+10384,10414,simple,natto,納豆
+10471,10501,simple,rice,ライス
+10530,10560,simple,shrimp,えび
+10555,10585,simple,cheese,チーズ
+10589,10619,simple,strawberry,いちご
+10652,10682,simple,natto,納豆
+10683,10713,simple,salmon,しゃけ
+10690,10720,simple,steak,ステーキ
+10710,10740,simple,cheese,チーズ
+10806,10836,simple,bread,パン
+10843,10873,simple,bread,パン
+10932,10962,simple,bread,パン
+11043,11073,simple,hamburger,ハンバーグ
+11123,11154,simple,fried chicken,からあげ
+11248,11279,simple,omelette rice,オムライス
+11254,11285,simple,steak,ステーキ
+11286,11317,simple,hamburger,ハンバーグ
+11302,11333,simple,egg,たまご
+11330,11361,simple,cheese,チーズ
+11388,11419,simple,pizza,ピザ
+11404,11435,simple,steak,ステーキ
+11417,11448,simple,sushi,寿司
+11426,11457,simple,cheese,チーズ
+11445,11476,simple,chocolate,チョコレート
+11458,11489,simple,shrimp,えび
+11485,11516,simple,shrimp,えび
+11566,11597,simple,curry,カレー
+11682,11713,simple,omelette rice,オムライス
+11768,11799,simple,natto,納豆
+11883,11914,simple,french fries,ポテト
+11930,11961,simple,hamburger,ハンバーグ
+12034,12065,simple,curry,カレー
+12071,12102,simple,chocolate,チョコレート
+12076,12107,simple,steak,ステーキ
+12114,12145,simple,shrimp,えび
+12125,12156,simple,sushi,寿司
+12203,12234,simple,ramen,ラーメン
+12213,12244,simple,strawberry,いちご
+12269,12300,simple,cheese,チーズ
+12271,12302,simple,cheese,チーズ
+12294,12325,simple,sushi,寿司
+12348,12379,simple,bread,パン
+12374,12405,simple,ramen,ラーメン
+12428,12459,simple,bread,パン
+12463,12494,simple,bread,パン
+12465,12496,simple,curry,カレー
+12483,12514,simple,chocolate,チョコレート
+12488,12519,simple,steak,ステーキ
+12522,12553,simple,ice cream,アイスクリーム
+12546,12577,simple,french fries,ポテト
+12593,12624,simple,meat,肉
+12728,12759,simple,curry,カレー
+12889,12920,simple,steak,ステーキ
+13045,13076,simple,french fries,ポテト
+13108,13139,simple,strawberry,いちご
+13135,13166,simple,sushi,寿司
+13221,13252,simple,fried chicken,からあげ
+13429,13462,simple,cheese,チーズ
+13518,13551,simple,strawberry,いちご
+13588,13621,simple,chocolate,チョコレート
+13613,13646,simple,ramen,ラーメン
+13623,13656,simple,ramen,ラーメン
+13638,13671,simple,strawberry,いちご
+13665,13698,simple,fried chicken,フライドチキン
+13713,13746,simple,natto,納豆
+13872,13906,simple,sushi,寿司
+13886,13920,simple,cheese,チーズ
+13890,13924,simple,chocolate,チョコレート
+13901,13935,simple,french fries,ポテト
+14312,14346,simple,chocolate,チョコ
+14334,14368,simple,sushi,寿司
+14413,14447,simple,natto,納豆
+14435,14469,simple,bread,パン
+14578,14612,simple,omelette rice,オムライス
+14595,14629,simple,hamburger,ハンバーグ
+14601,14635,simple,pizza,ピザ
+14658,14692,simple,shrimp,えび
+14764,14798,simple,ramen,ラーメン
+14876,14910,simple,omelette rice,オムライス
+14887,14921,simple,steak,ステーキ
+14922,14956,simple,strawberry,いちご
+14947,14982,simple,crab,蟹
+14957,14993,simple,bread,パン
+14972,15008,simple,french fries,ポテト
+15015,15051,simple,sushi,寿司
+15093,15129,simple,meat,にく
+15138,15174,simple,sushi,寿司
+15238,15274,simple,rice,ライス
+15381,15417,simple,omelette rice,オムライス
+15401,15437,simple,meat,ミート
+15454,15490,simple,chocolate,チョコレート
+15468,15504,simple,sushi,寿司
+15511,15547,simple,egg,たまご
+15522,15558,simple,french fries,ポテト
+15581,15617,simple,ramen,ラーメン
+15600,15636,simple,crab,カニ
+15617,15653,simple,strawberry,いちご
+15809,15845,simple,cheese,チーズ
+15833,15869,simple,pizza,ピザ
+15873,15909,simple,cheese,チーズ
+15898,15934,simple,egg,卵
+15911,15947,simple,rice,ご飯
+15950,15986,simple,fried chicken,からあげ
+15977,16014,simple,bread,パン
+15984,16021,simple,steak,ステーキ
+16048,16085,simple,egg,たまご
+16066,16103,simple,pizza,ピザ
+16080,16117,simple,cheese,チーズ
+16093,16130,simple,natto,納豆
+16109,16146,simple,strawberry,いちご
+16122,16159,simple,steak,ステーキ
+16130,16167,simple,ice cream,アイスクリーム
+16153,16190,simple,rice,ライス
+16182,16219,simple,chicken,鶏
+16243,16280,simple,chocolate,チョコ
+16251,16288,simple,chocolate,チョコ
+16331,16368,simple,chocolate,チョコレート
+16340,16377,simple,curry,カレー
+16342,16379,simple,bread,パン
+16366,16403,simple,egg,玉子
+16543,16580,simple,strawberry,いちご
+16593,16630,simple,cheese,チーズ
+16631,16668,simple,chicken,チキン
+16676,16713,simple,shrimp,海老
+16780,16817,simple,chicken,とりにく
+16863,16900,simple,ramen,ラーメン
+16920,16957,simple,salmon,さけ
+16946,16983,simple,ramen,ラーメン
+17035,17072,simple,omelette rice,オムライス
+17076,17113,simple,cheese,チーズ
+17079,17116,simple,steak,ステーキ
+17090,17127,simple,bread,パン
+17124,17161,simple,pizza,ピザ
+17129,17166,simple,pizza,ピザ
+17263,17300,simple,cheese,チーズ
+17372,17409,simple,chocolate,チョコ
+17408,17445,simple,meat,肉
+17440,17477,simple,ramen,ラーメン
+17449,17486,simple,curry,カレー
+17456,17493,simple,bread,パン
+17506,17543,simple,omelette rice,オムライス
+17530,17567,simple,chocolate,チョコ
+17549,17586,simple,chocolate,チョコレート
+17591,17628,simple,sushi,寿司
+17596,17633,simple,strawberry,いちご
+17752,17789,simple,chicken,鶏
+17763,17800,simple,crab,蟹
+17791,17828,simple,ramen,ラーメン
+17798,17835,simple,crab,カニ
+17829,17866,simple,pizza,ピザ
+17844,17881,simple,steak,ステーキ
+17866,17903,simple,curry,カレー
+17868,17905,simple,pizza,ピザ
+17983,18020,simple,rice,ライス
+18016,18053,simple,curry,カレー
+18026,18063,simple,curry,カレー
+18072,18109,simple,meat,肉
+18367,18404,simple,ramen,ラーメン
+18426,18463,simple,hamburger,ハンバーグ
+18430,18467,simple,cheese,チーズ
+18524,18561,simple,omelette rice,オムライス
+18722,18759,simple,chocolate,チョコレート
+18745,18782,simple,curry,カレー
+18793,18830,simple,cheese,チーズ
+18932,18969,simple,meat,肉
+19092,19129,simple,steak,ステーキ
+19106,19143,simple,steak,ステーキ
+19185,19222,simple,omelette rice,オムライス
+19237,19274,simple,omelette rice,オムライス
+19238,19275,simple,crab,蟹
+19250,19287,simple,chocolate,チョコレート
+19369,19406,simple,pizza,ピザ
+19372,19409,simple,crab,カニ
+19404,19441,simple,meat,肉
+19430,19467,simple,steak,ステーキ
+19462,19499,simple,egg,たまご
+19470,19507,simple,crab,カニ
+19494,19531,simple,strawberry,いちご
+19526,19563,simple,omelette rice,おむらいす
+19531,19568,simple,curry,カレー
+19532,19569,simple,chocolate,チョコ
+19596,19633,simple,curry,カレー
+19604,19641,simple,ramen,ラーメン
+19627,19664,simple,bread,パン
+19689,19726,simple,ice cream,アイスクリーム
+19693,19730,simple,sushi,寿司
+19707,19744,simple,steak,ステーキ
+19745,19782,simple,sushi,寿司
+19850,19887,simple,french fries,ポテト
+19905,19942,simple,chocolate,チョコレート
+19980,20017,simple,cheese,チーズ
+19990,20027,simple,omelette rice,オムライス
+20077,20114,simple,cheese,チーズ
+20094,20131,simple,ramen,ラーメン
+20132,20169,simple,chocolate,チョコレート
+20234,20271,simple,sushi,寿司
+20258,20295,simple,french fries,ポテト
+20319,20356,simple,omelette rice,オムライス
+20338,20375,simple,fried chicken,からあげ
+20445,20482,simple,chocolate,チョコレート
+20487,20524,simple,bread,パン
+20590,20627,simple,crab,カニ
+20636,20673,simple,cheese,チーズ
+20689,20726,simple,strawberry,いちご
+20777,20814,simple,french fries,ポテト
+20795,20832,simple,chocolate,チョコレート
+20815,20852,simple,bread,パン
+20843,20880,simple,fried chicken,からあげ
+20868,20905,simple,omelette rice,オムライス
+20922,20959,simple,sushi,寿司
+20979,21016,simple,strawberry,いちご
+21080,21117,simple,egg,卵
+21082,21119,simple,chicken,チキン
+21094,21131,simple,chocolate,チョコ
+21162,21199,simple,sushi,寿司
+21193,21230,simple,omelette rice,オムライス
+21203,21240,simple,omelette rice,オムライス
+21211,21248,simple,strawberry,いちご
+21233,21270,simple,cheese,チーズ
+21258,21295,simple,meat,にく
+21294,21331,simple,ramen,ラーメン
+21344,21381,simple,french fries,ポテト
+21434,21471,simple,fried chicken,からあげ
+21466,21503,simple,sushi,寿司
+21491,21528,simple,curry,カレー
+21572,21609,simple,pizza,マルゲリータ
+21684,21721,simple,bread,パン
+21710,21747,simple,bread,パン
+21780,21817,simple,hamburger,ハンバーグ
+21795,21832,simple,omelette rice,オムライス
+21809,21846,simple,pizza,ピザ
+21813,21850,simple,ramen,ラーメン
+21836,21873,simple,curry,カレー
+21849,21886,simple,ramen,ラーメン
+21898,21935,simple,omelette rice,オムライス
+21939,21976,simple,chocolate,チョコ
+21941,21978,simple,ramen,ラーメン
+22004,22041,simple,omelette rice,オムライス
+22023,22060,simple,ramen,ラーメン
+22029,22066,simple,curry,カレー
+22056,22093,simple,strawberry,苺
+22169,22206,simple,cheese,チーズ
+22182,22219,simple,bread,パン
+22253,22290,simple,rice,ライス
+22258,22295,simple,meat,肉
+22273,22310,simple,rice,ご飯
+22470,22507,simple,chocolate,チョコ
+22499,22536,simple,strawberry,イチゴ
+22712,22749,simple,omelette rice,オムライス
+22721,22758,simple,sushi,寿司
+22771,22809,simple,strawberry,イチゴ
+22803,22841,simple,chocolate,チョコレート
+22860,22898,simple,ramen,ラーメン
+22925,22963,simple,crab,カニ
+22933,22971,simple,sushi,寿司
+22955,22993,simple,ramen,ラーメン
+23006,23044,simple,egg,たまご
+23011,23049,simple,sushi,寿司
+23029,23067,simple,pizza,ピザ
+23055,23093,simple,crab,カニ
+23068,23106,simple,strawberry,イチゴ
+23071,23109,simple,sushi,寿司
+23072,23110,simple,steak,ステーキ
+23120,23158,simple,rice,米
+23506,23544,simple,chicken,チキン
+23618,23656,simple,rice,ご飯
+23642,23680,simple,ramen,ラーメン
+23804,23842,simple,bread,パン
+23826,23864,simple,cheese,チーズ
+23874,23912,simple,fried chicken,からあげ
+23894,23932,simple,french fries,ポテト
+23945,23983,simple,pizza,ピザ
+24087,24125,simple,egg,玉子
+24132,24170,simple,pizza,ピザ
+24390,24428,simple,ramen,ラーメン
+24535,24573,simple,egg,玉子
+24705,24743,simple,cheese,チーズ
+24961,24999,simple,rice,米
+25063,25101,simple,french fries,ポテト
+25088,25126,simple,pizza,ピザ
+25180,25218,simple,omelette rice,オムライス
+25272,25310,simple,ramen,ラーメン
+25315,25353,simple,french fries,ポテト
+25320,25358,simple,strawberry,苺
+25370,25408,simple,steak,ステーキ
+25375,25413,simple,bread,パン
+25541,25579,simple,ice cream,アイスクリーム
+25659,25697,simple,ramen,ラーメン
+25662,25700,simple,omelette rice,オムライス
+25677,25715,simple,chocolate,チョコレート
+25682,25720,simple,crab,カーニ
+25697,25735,simple,chicken,にわとり
+25770,25808,simple,omelette rice,オムライス
+25889,25928,simple,rice,ご飯
+25977,26016,simple,ramen,ラーメン
+26031,26070,simple,steak,ステーキ
+26071,26110,simple,chicken,チキン
+26094,26133,simple,chocolate,チョコレート
+26275,26314,simple,bread,パン
+26376,26415,simple,cheese,チーズ
+26379,26418,simple,chocolate,チョコレート
+26409,26448,simple,steak,ステーキ
+26417,26456,simple,sushi,寿司
+26420,26459,simple,cheese,チーズ
+26425,26464,simple,sushi,寿司
+26429,26468,simple,ramen,ラーメン
+26576,26615,simple,sushi,寿司
+26779,26818,simple,french fries,ポテト
+26871,26910,simple,rice,米
+26890,26929,simple,fried chicken,フライドチキン
+26920,26959,simple,steak,ステーキ
+26992,27031,simple,bread,パン
+27013,27052,simple,steak,ステーキ
+27164,27203,simple,curry,カレー
+27327,27366,simple,pizza,ピザ
+27489,27528,simple,cheese,チーズ
+27535,27574,simple,bread,パン
+27635,27674,simple,ramen,ラーメン
+27749,27788,simple,curry,カレー
+28042,28081,simple,ramen,ラーメン
+28069,28108,simple,sushi,寿司
+28079,28118,simple,chocolate,チョコ
+28155,28194,simple,curry,カレー
+28167,28206,simple,french fries,ポテト
+28244,28283,simple,pizza,ピザ
+28264,28303,simple,pizza,ピザ
+28275,28314,simple,ramen,ラーメンセアブラマシマシヤサイマシマシ
+28284,28323,simple,chocolate,チョコレート
+28515,28554,simple,ramen,ラーメン
+28585,28624,simple,bread,パン
+28618,28657,simple,ramen,ラーメン
+28751,28790,simple,ramen,ラーメン
+28776,28815,simple,ramen,ラーメン
+28787,28826,simple,omelette rice,オムライス
+29023,29062,simple,steak,ステーキ
+29311,29350,simple,crab,蟹
+29356,29395,simple,strawberry,いちご
+29499,29538,simple,rice,ごはん
+29501,29540,simple,natto,納豆
+29505,29544,simple,natto,納豆
+29628,29667,simple,natto,納豆
+29647,29686,simple,sushi,寿司
+29716,29755,simple,steak,ステーキ
+29789,29828,simple,ramen,ラーメン
+29873,29912,simple,sushi,寿司
+29916,29955,simple,ramen,沖縄そば
+29956,29995,simple,natto,納豆
+29967,30006,simple,rice,ごはん
+30009,30048,simple,ramen,ソーキそば
+30011,30050,simple,ice cream,アイスクリーム
+30256,30295,simple,ramen,ラーメン
+30382,30424,simple,ramen,ラーメン
+30395,30437,simple,curry,カレー
+30516,30558,simple,steak,ステーキ
+30557,30599,simple,hamburger,ハンバーグ
+30577,30619,simple,french fries,ポテト
+30578,30620,simple,strawberry,いちご
+30699,30741,simple,ice cream,アイスクリーム
+30736,30778,simple,fried chicken,からあげ
+30788,30830,simple,strawberry,いちご
+30862,30904,simple,omelette rice,オムライス
+30889,30931,simple,curry,カレー
+30929,30971,simple,meat,肉
+31008,31051,simple,cheese,チーズ
+31093,31136,simple,curry,カレー
+31110,31153,simple,french fries,ポテト
+31139,31183,simple,strawberry,いちご
+31144,31188,simple,omelette rice,オムライス
+31213,31257,simple,strawberry,いちご
+31291,31335,simple,sushi,寿司
+31310,31354,simple,french fries,ポテト
+31465,31509,simple,french fries,ポテト
+31560,31604,simple,bread,パン
+31717,31764,simple,natto,納豆
+31733,31781,simple,omelette rice,オムライス
+31877,31925,simple,sushi,寿司
+31984,32032,simple,crab,カニ
+32060,32108,simple,steak,ステーキ
+32111,32159,simple,omelette rice,オムライス
+32146,32194,simple,omelette rice,オムライス
+32282,32331,simple,hamburger,ハンバーグ
+32410,32459,simple,cheese,チーズ
+32431,32480,simple,omelette rice,オムライス
+32435,32484,simple,ramen,ラーメン
+32572,32621,simple,steak,ステーキ
+32605,32654,simple,bread,パン
+32711,32760,simple,natto,納豆
+32712,32761,simple,omelette rice,オムライス
+32766,32815,simple,pizza,ピザ
+32844,32893,simple,omelette rice,オムライス
+32986,33035,simple,rice,ごはん
+33149,33198,simple,pizza,ピザ
+33152,33201,simple,ramen,ラーメン
+33189,33238,simple,curry,カレー
+33238,33287,simple,natto,納豆
+33271,33320,simple,french fries,ポテト
+33484,33533,simple,strawberry,いちご
+33510,33559,simple,rice,米
+33532,33581,simple,ramen,ラーメン
+33641,33690,simple,fried chicken,フライドチキン
+33669,33718,simple,rice,ごはん
+33734,33783,simple,chocolate,チョコレート
+33781,33830,simple,cheese,チーズ
+33789,33838,simple,chocolate,チョコ
+34043,34092,simple,chicken,チキン
+34194,34243,simple,natto,納豆
+34224,34273,simple,chicken,チキン
+34508,34557,simple,fried chicken,からあげ
+34643,34692,simple,omelette rice,オムライス
+34645,34694,simple,strawberry,いちご
+34689,34738,simple,ramen,ラーメン
+34690,34739,simple,bread,パン
+34699,34748,simple,sushi,寿司
+34839,34888,simple,omelette rice,オムライス
+34861,34910,simple,ramen,ラーメン
+35046,35095,simple,chocolate,チョコ
+35159,35208,simple,french fries,ポテト
+35203,35252,simple,sushi,寿司
+35226,35275,simple,ice cream,アイスクリーム
+35248,35297,simple,sushi,寿司
+35423,35473,simple,chocolate,チョコ
+35483,35533,simple,curry,カレー
+35518,35568,simple,ramen,ラーメン
+35609,35659,simple,rice,ご飯
+35668,35718,simple,cheese,チーズ
+35691,35741,simple,salmon,鮭
+35792,35842,simple,curry,カレー
+35799,35849,simple,curry,カレー
+35805,35855,simple,fried chicken,フライドチキン
+35843,35893,simple,sushi,寿司
+35857,35907,simple,sushi,寿司
+35861,35911,simple,chocolate,チョコレート
+35919,35969,simple,french fries,ポテト
+35934,35984,simple,cheese,チーズ
+35951,36001,simple,fried chicken,シャカチキ
+36024,36074,simple,natto,納豆
+36036,36086,simple,hamburger,ハンバーグ
+36054,36104,simple,french fries,ポテト
+36083,36133,simple,bread,パン
+36156,36206,simple,rice,ご飯
+36176,36226,simple,sushi,寿司
+36213,36263,simple,natto,納豆
+36278,36328,simple,meat,肉
+36372,36422,simple,chocolate,チョコ
+36461,36511,simple,bread,パン
+36608,36658,simple,cheese,チーズ
+36618,36668,simple,fried chicken,からあげ
+36648,36698,simple,strawberry,いちご
+36691,36741,simple,fried chicken,からあげ
+36721,36771,simple,sushi,寿司
+36724,36774,simple,sushi,寿司
+36739,36789,simple,sushi,寿司
+36851,36901,simple,natto,納豆
+37054,37106,simple,rice,ごはん
+37192,37244,simple,ice cream,アイスクリーム
+37193,37245,simple,sushi,寿司
+37268,37320,simple,tomato, トマト
+37475,37527,simple,sushi,寿司
+37611,37663,simple,chicken,ニワトリ
+37624,37676,simple,sushi,寿司
+37689,37741,simple,chicken,ニワトリ
+37691,37743,simple,chocolate,チョコ
+37777,37829,simple,hamburger,ハンバーグ
+37781,37833,simple,chicken,ニワトリ
+37909,37961,simple,crab,カニ
+37916,37968,simple,hamburger,ハンバーグ
+37917,37969,simple,bread,パン
+38103,38155,simple,shrimp,エビ
+38269,38321,simple,natto,納豆
+38376,38428,simple,rice,米
+38388,38440,simple,cheese,チーズ
+38525,38577,simple,pizza,ピザ
+38537,38589,simple,bread,パン
+38567,38619,simple,french fries,ポテト
+38615,38667,simple,chicken,チキン
+38687,38739,simple,pizza,ピザ
+38730,38782,simple,crab,毛ガニ
+38735,38787,simple,egg,たまご
+38840,38892,simple,avocado,アボガド
+38925,38977,simple,steak,ステーキ
+38933,38985,simple,omelette rice,オムライス
+38970,39022,simple,natto,納豆
+39005,39057,simple,crab,カニ
+39088,39140,simple,chocolate,チョコレート
+39095,39147,simple,rice,米
+39118,39170,simple,ramen,ラーメン
+39398,39450,simple,rice,ごはん
+39417,39469,simple,bread,パン
+39475,39527,simple,cheese,チーズ
+39489,39541,simple,steak,ステーキ
+39505,39557,simple,ramen,ラーメン
+39583,39635,simple,cheese,チーズ
+39586,39638,simple,ice cream,アイスクリーム
+39596,39648,simple,meat,肉
+39661,39713,simple,sushi,寿司
+39668,39720,simple,cheese,チーズ
+39835,39887,simple,curry,カレー
+39881,39933,simple,egg,卵
+40086,40138,simple,curry,カレー
+40106,40158,simple,curry,カレー
+40166,40218,simple,pizza,ピザ
+40172,40224,simple,omelette rice,オムライス
+40233,40285,simple,sushi,寿司
+40247,40299,simple,egg,たまご
+40340,40392,simple,ramen,ラーメン
+40458,40510,simple,pizza,ピザ
+40479,40531,simple,pizza,ピザ
+40492,40544,simple,pizza,ピザ
+40512,40564,simple,steak,ステーキ
+40558,40610,simple,pizza,マルゲリータ
+40606,40658,simple,french fries,ポテト
+40652,40704,simple,rice,ライス
+40658,40710,simple,rice,ライス
+40664,40716,simple,rice,ライス
+40708,40760,simple,rice,ライス
+40723,40775,simple,rice,ライス
+40781,40833,simple,rice,ライス
+40791,40843,simple,fried chicken,からあげ
+40847,40899,simple,rice,ライス
+40908,40960,simple,ramen,ラーメン
+41017,41069,simple,chocolate,チョコ
+41045,41097,simple,natto,納豆
+41046,41098,simple,ice cream,アイスクリーム
+41051,41103,simple,french fries,ポテト
+41079,41131,simple,chocolate,チョコ
+41173,41225,simple,chocolate,チョコレート
+41338,41390,simple,hamburger,ハンバーグ
+41465,41517,simple,curry,カレー
+41505,41557,simple,cheese,チーズ
+41554,41606,simple,crab,カニ
+41606,41658,simple,bread,パン
+41635,41687,simple,strawberry,イチゴ
+41679,41731,simple,french fries,ポテト
+41711,41763,simple,chicken,ニワトリ
+41730,41782,simple,egg,玉子
+41822,41874,simple,cheese,チーズ
+41841,41893,simple,ramen,ラーメン
+41882,41934,simple,fried chicken,からあげ
+41928,41980,simple,omelette rice,オムライス
+41979,42031,simple,avocado,アボガド
+42017,42069,simple,bread,パン
+42134,42186,simple,fried chicken,からあげ
+42209,42261,simple,rice,ライス
+42275,42327,simple,bread,パン
+42389,42441,simple,ramen,ラーメン
+42560,42612,simple,cheese,チーズ
+42823,42875,simple,omelette rice,オムライス
+42899,42951,simple,sushi,寿司
+42969,43021,simple,pizza,ピザ
+43001,43053,simple,omelette rice,オムライス
+43100,43152,simple,natto,納豆
+43278,43330,simple,sushi,寿司
+43339,43391,simple,pizza,ピザ
+43410,43462,simple,chocolate,チョコ
+43618,43670,simple,pizza,ピザ
+43625,43677,simple,chicken,チキン
+43652,43704,simple,french fries,ポテト
+43701,43753,simple,chocolate,チョコ
+43757,43809,simple,cheese,チーズ
+43779,43831,simple,meat,肉
+43789,43841,simple,cheese,チーズ
+43866,43918,simple,omelette rice,オムライス
+43915,43967,simple,cheese,チーズ
+43931,43983,simple,french fries,ポテト
+43975,44027,simple,sushi,寿司
+43983,44035,simple,sushi,寿司
+43992,44044,simple,rice,ライス
+43998,44050,simple,cheese,チーズ
+44016,44068,simple,rice,ライス
+44073,44125,simple,cheese,チーズ
+44134,44186,simple,cheese,チーズ
+44164,44216,simple,curry,カレー
+44258,44310,simple,bread,パン
+44375,44427,simple,natto,納豆
+44398,44450,simple,bread,パン
+44404,44456,simple,strawberry,いちご
+44464,44516,simple,ice cream,アイスクリーム
+44516,44568,simple,crab,蟹
+44518,44570,simple,french fries,ポテト
+44537,44589,simple,strawberry,いちご
+44592,44644,simple,natto,納豆
+44594,44646,simple,omelette rice,オムライス
+44636,44688,simple,ramen,ラーメン
+44776,44828,simple,ramen,ラーメン
+44787,44839,simple,chicken,とりにく
+44873,44925,simple,french fries,ポテト
+45013,45065,simple,ramen,ラーメン
+45071,45124,simple,hamburger,ハンバーグ
+45116,45169,simple,ramen,ラーメン
+45338,45392,simple,strawberry,イチゴ
+45501,45555,simple,natto,納豆
+45550,45604,simple,hamburger,ハンバーグ
+45691,45745,simple,bread,パン
+45699,45753,simple,sushi,寿司
+45735,45789,simple,ramen,ラーメン
+46042,46096,simple,omelette rice,オムライス
+46073,46127,simple,cheese,チーズ
+46225,46279,simple,bread,パン
+46241,46295,simple,french fries,ポテト
+46331,46387,simple,french fries,ポテト
+46400,46456,simple,curry,カレー
+46429,46485,simple,sushi,寿司
+46467,46523,simple,sushi,寿司
+46502,46558,simple,chocolate,チョコ
+46508,46564,simple,rice,ライス
+46563,46619,simple,omelette rice,おむらいす
+46597,46653,simple,chocolate,チョコレート
+46601,46657,simple,steak,ステーキ
+46697,46753,simple,steak,ステーキ
+46711,46767,simple,curry,カレー
+46725,46781,simple,chocolate,チョコレート
+46795,46851,simple,shrimp,えび
+46801,46857,simple,ramen,ラーメン
+46876,46932,simple,omelette rice,オムライス
+46882,46938,simple,sushi,寿司
+46896,46952,simple,steak,ステーキ
+46914,46970,simple,chocolate,チョコレート
+46915,46971,simple,french fries,ポテト
+47055,47111,simple,meat,肉
+47095,47151,simple,chocolate,チョコレート
+47186,47242,simple,curry,カレー
+47216,47272,simple,ramen,ラーメン
+47296,47352,simple,pizza,ピザ
+47441,47497,simple,cheese,チーズ
+47567,47623,simple,bread,パン
+47649,47705,simple,ramen,ラーメン
+47652,47708,simple,strawberry,いちご
+47733,47789,simple,shrimp,えび
+47776,47832,simple,hamburger,ハンバーグ
+47807,47863,simple,omelette rice,オムライス
+47905,47961,simple,strawberry,いちご
+47966,48022,simple,sushi,寿司
+47985,48041,simple,rice,米
+48113,48170,simple,cheese,チーズ
+48137,48194,simple,rice,ごはん
+48153,48210,simple,curry,カレー
+48232,48289,simple,bread,パン
+48261,48318,simple,pizza,ピザ
+48264,48321,simple,ramen,ラーメン
+48289,48346,simple,egg,卵
+48328,48385,simple,fried chicken,フライドチキン
+48330,48387,simple,natto,納豆
+48437,48494,simple,egg,卵
+48472,48529,simple,ice cream,アイスクリーム
+48521,48578,simple,chocolate,チョコ
+48522,48579,simple,bread,パン
+48583,48640,simple,crab,毛ガニ
+48585,48642,simple,cheese,チーズ
+48671,48728,simple,ramen,ラーメン
+48686,48743,simple,ramen,ラーメン
+48699,48756,simple,strawberry,イチゴ
+48711,48768,simple,ramen,沖縄そば
+48752,48809,simple,bread,パン
+48774,48831,simple,pizza,ピザ
+48779,48836,simple,cheese,チーズ
+48848,48906,simple,hamburger,ハンバーグ
+48909,48967,simple,cheese,チーズ
+48923,48981,simple,cheese,チーズ
+48971,49029,simple,french fries,ポテト
+48991,49049,simple,omelette rice,オムライス
+48992,49050,simple,bread,パン
+49123,49181,simple,strawberry,いちご
+49219,49277,simple,omelette rice,オムライス
+49246,49304,simple,ramen,ラーメン
+49292,49350,simple,cheese,チーズ
+49346,49404,simple,natto,納豆
+49349,49407,simple,natto,納豆
+49360,49418,simple,fried chicken,フライドチキン
+49382,49440,simple,natto,納豆
+49459,49517,simple,hamburger,ハンバーグ
+49485,49543,simple,omelette rice,オムライス
+49604,49662,simple,curry,カレー
+49655,49713,simple,chicken,ニワトリ
+49727,49785,simple,cheese,チーズ
+49833,49891,simple,sushi,寿司
+50065,50123,simple,chocolate,チョコレート
+50093,50151,simple,egg,玉子さ
+50135,50193,simple,omelette rice,オムライス
+50175,50233,simple,chocolate,チョコ
+50179,50237,simple,chocolate,チョコレート
+50182,50240,simple,ramen,ラーメン
+50318,50376,simple,french fries,ポテト
+50325,50383,simple,strawberry,イチゴ
+50342,50400,simple,strawberry,イチゴ
+50411,50469,simple,ramen,ラーメン
+50438,50496,simple,steak,ステーキ
+50545,50603,simple,natto,納豆
+50666,50724,simple,french fries,ポテト
+50734,50792,simple,sushi,寿司
+50768,50826,simple,fried chicken,からあげ
+50846,50904,simple,fried chicken,からあげ
+50864,50922,simple,bread,パン
+50977,51035,simple,ramen,ラーメン
+50994,51052,simple,pizza,ピザ
+51042,51100,simple,strawberry,イチゴ
+51211,51269,simple,omelette rice,オムライス
+51280,51338,simple,cheese,チーズ
+51358,51416,simple,sushi,寿司
+51432,51490,simple,curry,カレー
+51727,51785,simple,natto,納豆
+51793,51851,simple,natto,納豆
+51871,51929,simple,fried chicken,唐揚げグ
+52010,52068,simple,ramen,ラーメン
+52071,52129,simple,fried chicken,からあげ
+52088,52146,simple,strawberry,ストロベリー
+52116,52174,simple,cheese,チーズ
+52430,52488,simple,natto,納豆
+52654,52712,simple,steak,ステーキ
+52708,52766,simple,french fries,ポテト
+52746,52804,simple,cheese,チーズ
+52759,52817,simple,sushi,寿司
+52762,52820,simple,rice,ライス
+53325,53383,simple,hamburger,ハンバーグ
+53360,53418,simple,omelette rice,オムライス
+53387,53445,simple,cheese,チーズ
+53614,53672,simple,sushi,寿司
+53624,53682,simple,fried chicken,フライドチキン
+53878,53936,simple,ice cream,アイスクリーム
+54054,54112,simple,sushi,寿司
+54100,54158,simple,chocolate,チョコレート
+54108,54166,simple,rice,ご飯
+54111,54169,simple,rice,米
+54166,54224,simple,bread,パン
+54208,54266,simple,ramen,ラーメン
+54211,54269,simple,sushi,寿司
+54228,54286,simple,ramen,ラーメン
+54371,54429,simple,sushi,寿司
+54536,54594,simple,steak,ステーキ
+54591,54649,simple,strawberry,いちご
+54710,54768,simple,french fries,ポテト
+54751,54809,simple,omelette rice,オムライス
+54835,54893,simple,steak,ステーキ
+54891,54949,simple,steak,ステーキ
+54923,54981,simple,steak,ステーキ
+54930,54988,simple,steak,ステーキ
+55004,55062,simple,chicken,ニワトリ
+55346,55404,simple,ramen,ラーメン
+55365,55423,simple,chocolate,ちょこれいと
+55459,55517,simple,french fries,ポテト
+55470,55528,simple,omelette rice,オムライス
+55477,55535,simple,ice cream,アイスクリーム
+55524,55582,simple,ramen,ラーメン
+55587,55645,simple,strawberry,いちご
+55593,55651,simple,strawberry,苺
+55647,55705,simple,chocolate,チョコレート
+55674,55732,simple,cheese,チーズ
+55686,55744,simple,strawberry,イチゴ
+55713,55771,simple,rice,ライス
+55803,55861,simple,fried chicken,からあげ
+55849,55907,simple,egg,たまご
+55874,55932,simple,omelette rice,オムライス
+55877,55935,simple,omelette rice,おむらいす
+55915,55973,simple,ramen,ラーメン
+55958,56016,simple,egg,たまご
+56028,56086,simple,chicken,チキン
+56043,56101,simple,chocolate,チョコレート
+56084,56142,simple,steak,ステーキ
+56095,56153,simple,french fries,ポテト
+56290,56348,simple,cheese,チーズ
+56394,56452,simple,strawberry,いちご
+56533,56591,simple,fried chicken,からあげ
+56828,56886,simple,bread,パン
+56835,56893,simple,grilled meat,焼肉
+57072,57130,simple,sushi,寿司
+57082,57140,simple,french fries,ポテト
+57092,57150,simple,hamburger,レーズン
+57095,57153,simple,ramen,ラーメン
+57124,57182,simple,bread,パン
+57240,57298,simple,sushi,寿司
+57249,57307,simple,burger,バーガー
+57250,57308,simple,pizza,ピザ
+57254,57312,simple,strawberry,苺
+57310,57368,simple,chicken,チキン
+57331,57389,simple,teriyaki,テリヤキ
+57457,57517,simple,french fries,ポテト
+57518,57578,simple,chocolate,チョコ
+57573,57633,simple,curry,カレー
+57622,57682,simple,rice,ごはん
+57639,57699,simple,strawberry,いちご
+57701,57761,simple,omelette rice,オムライス
+57731,57791,simple,rice,ご飯
+57849,57909,simple,fried chicken,唐揚げ
+57884,57944,simple,hamburger,チュロス
+57960,58020,simple,curry,カレー
+58004,58064,simple,grilled meat,焼肉
+58022,58082,simple,cheese,チーズ
+58029,58089,simple,hamburger,ドーナツ
+58093,58153,simple,pizza,ピザ
+58096,58156,simple,takoyaki,たこ焼き
+58122,58182,simple,pizza,ピザ
+58123,58183,simple,steak,ステーキ
+58164,58224,simple,strawberry,いちご
+58177,58237,simple,egg,たまご
+58190,58250,simple,ramen,ラーメン
+58199,58259,simple,omelette rice,オムライス
+58276,58336,simple,fried chicken,唐揚げ
+58303,58363,simple,natto,納豆
+58379,58439,simple,steak,ステーキ
+58431,58491,simple,bread,パン
+58514,58574,simple,chocolate,チョコレート
+58659,58719,simple,hamburger,ハンバーガー
+58692,58752,simple,hamburger,ハンバーガー
+58780,58840,simple,udon,うどん
+58838,58898,simple,omelette rice,オムライス
+58863,58923,simple,rice,ごはん
+58866,58926,simple,sushi,すし
+58872,58932,simple,french fries,ポテト
+58901,58961,simple,shrimp,エビ
+58942,59002,simple,shrimp,えびび
+58990,59050,simple,ice cream,アイスクリーム
+59069,59129,simple,ramen,ラーメン
+59101,59161,simple,ramen,ラーメン
+59122,59182,simple,chicken,チキン
+59163,59223,simple,sushi,すずし
+59194,59254,simple,fried chicken,フライドチキン
+59214,59274,simple,hamburger,ハンバーガー
+59234,59294,simple,hamburger,バンズ
+59331,59391,simple,udon,ウドン
+59384,59444,simple,chocolate,チョコレート
+59399,59459,simple,salmon,サーモン
+59408,59468,simple,rice,ライス
+59448,59508,simple,curry,カレー
+59480,59540,simple,pizza,マルゲリータ
+59650,59710,simple,steak,ステーキ
+59660,59720,simple,chicken,とりにく
+59788,59848,simple,fried chicken,フライドチキン
+59809,59869,simple,sushi,お寿司
+59818,59878,simple,rice,ご飯
+59891,59951,simple,hamburger,ラム
+59904,59964,simple,pudding,プリン
+59936,59996,simple,sushi,お寿司
+59971,60031,simple,takoyaki,たこ焼き
+59985,60045,simple,teriyaki,てりやき
+59992,60052,simple,french fries,ポテト
+60002,60062,simple,hamburger,もも
+60008,60068,simple,hamburger,定食
+60009,60069,simple,pizza,ピザ
+60013,60073,simple,sushi,すし
+60156,60216,simple,rice,米
+60237,60297,simple,hamburger,ハンバーグ
+60261,60321,simple,sushi,すし
+60276,60336,simple,omelette rice,オムライス
+60286,60346,simple,burger,バーガー
+60297,60357,simple,salmon,サーモン
+60341,60401,simple,bread,パン
+60430,60490,simple,meat,にく
+60470,60530,simple,grilled meat,焼肉
+60472,60532,simple,hamburger,ハンバーグ
+60613,60673,simple,takoyaki,たこ焼き
+60617,60677,simple,salmon,サーモン
+60629,60689,simple,french fries,ポテト
+60635,60695,simple,hamburger,チュロス
+60643,60703,simple,rice,ライス
+60674,60734,simple,udon,うどん
+60687,60747,simple,grilled meat,焼き肉
+60693,60753,simple,crab,カ ニ
+60694,60754,simple,steak,ステーキ
+60707,60767,simple,hamburger,ドーナツ
+60731,60791,simple,cheese,チーズ
+60737,60797,simple,fried chicken,唐揚げ
+60745,60805,simple,tomato,トマト
+60753,60813,simple,tomato,トマト
+60805,60865,simple,french fries,ポテト
+60812,60872,simple,chocolate,チョコレート
+60816,60876,simple,ramen,ラーメン
+60832,60892,simple,hamburger,キャンディ
+60863,60923,simple,ice cream,アイスクリーム
+60867,60927,simple,strawberry,いちご
+60870,60930,simple,french fries,ポテト
+60882,60942,simple,sushi,寿司
+60886,60946,simple,crab,かに
+60888,60948,simple,salmon,サーモン
+60920,60980,simple,curry,カレー
+61036,61096,simple,ice cream,アイス
+61047,61107,simple,fried chicken,唐揚げ
+61052,61112,simple,hamburger,ドーナツ
+61102,61162,simple,hamburger,ドーナツ
+61103,61163,simple,hamburger,ハンバーガー
+61105,61165,simple,sushi,寿司
+61107,61167,simple,hamburger,ハンバーガー
+61108,61168,simple,ramen,ラーメン
+61117,61177,simple,chocolate,チョコレート
+61121,61181,simple,ice cream,アイスクリーム
+61129,61189,simple,hamburger,グラノーラ
+61140,61200,simple,french fries,フライドポテト
+61236,61296,simple,hamburger,ペパーミント
+61248,61308,simple,shrimp,エビ
+61314,61374,simple,ice cream,アイスクリーム
+61317,61377,simple,hamburger,ドーナツ
+61384,61444,simple,hamburger,ミッキーマウス
+61389,61449,simple,hamburger,カブトムシ
+61397,61457,simple,hamburger,Coca-cola
+61402,61462,simple,sushi,sushi
+61405,61465,simple,hamburger,ぷももえんぐえげぎおんもえちょっちょっちゃっさっ
+61407,61467,simple,hamburger,金！暴力！SEX！
+61409,61469,simple,hamburger,ビール！ビール！
+61413,61473,simple,hamburger,やったぜ。　投稿者：変態糞土方 (8月16日（水）07時14分22秒)昨日の8月15日
+61583,61643,simple,hamburger,カダイ
+61617,61677,simple,steak,ステーキ
+61642,61702,simple,hamburger,ポテトチップス
+61821,61881,simple,french fries,ポテト
+61835,61895,simple,hamburger,プロシュート
+61951,62011,simple,crab,蟹
+61997,62057,simple,hamburger,もも
+62016,62076,simple,strawberry,いちご
+62032,62092,simple,sushi,寿司
+62088,62148,simple,takoyaki,たこ焼き
+62133,62193,simple,chocolate,チョコ
+62181,62241,simple,takoyaki,たこ焼き
+62242,62302,simple,chocolate,チョコ
+62321,62381,simple,egg,卵
+62341,62401,simple,egg,たまご
+62343,62403,simple,bread,パン
+62372,62432,simple,pizza,Pizza
+62378,62438,simple,crab,蟹
+62402,62462,simple,hamburger,ハンバーガー
+62405,62465,simple,steak,ステーキ
+62418,62478,simple,ramen,ラーメン
+62447,62507,simple,grilled meat,焼き肉
+62449,62509,simple,chocolate,チョコレート
+62452,62512,simple,french fries,ポテト
+62454,62514,simple,french fries,フライドポテト
+62466,62526,simple,steak,ステーキ
+62471,62531,simple,takoyaki,たこ焼き
+62516,62576,simple,chicken,にわとり
+62532,62592,simple,omelette rice,オムライス
+62538,62598,simple,omelette rice,オムライス
+62562,62622,simple,strawberry,イチゴ
+62581,62641,simple,chocolate,チョコ
+62660,62720,simple,french fries,ポテト
+62693,62753,simple,ramen,ラーメン
+62701,62761,simple,salmon,Salmon
+62704,62764,simple,ice cream,アイス
+62826,62886,simple,omelette rice,オムライス
+62853,62913,simple,pizza,ピザ
+62872,62932,simple,hamburger,ドリンカブル
+62906,62966,simple,tomato,トマト
+62988,63048,simple,burger,バーガー
+63032,63092,simple,sushi,寿司
+63034,63094,simple,ramen,ラーメン
+63052,63112,simple,hamburger,地下鉄
+63056,63116,simple,ramen,ラーメン
+63074,63134,simple,hamburger,ドーナツ
+63087,63147,simple,bread,パン
+63121,63181,simple,ramen,ラーメン
+63206,63266,simple,pizza,ピザ
+63232,63292,simple,hamburger,テキーラ
+63270,63330,simple,ramen,ラーメン
+63327,63387,simple,pizza,ピザ
+63397,63457,simple,sushi,寿司
+63406,63466,simple,ramen,ラーメン
+63436,63496,simple,cheese,チーズ
+63457,63517,simple,curry,カレー
+63523,63583,simple,ramen,ラーメン
+63539,63599,simple,hamburger,ジュージュー
+63573,63633,simple,chocolate,チョコレート
+63580,63640,simple,fried chicken,唐揚げ
+63606,63666,simple,ramen,ラーメン
+63649,63709,simple,hamburger,ポテトチップス
+63760,63820,simple,strawberry,いちご
+63764,63824,simple,ramen,ラーメン
+63850,63910,simple,sushi,寿司
+63865,63925,simple,hamburger,ハンバーガー
+63883,63943,simple,chocolate,チョコレート
+63904,63964,simple,sushi,すし
+63953,64013,simple,french fries,ポテト
+63963,64023,simple,fried chicken,からあげ
+63998,64058,simple,strawberry,いちご
+64027,64087,simple,steak,ステーキ
+64077,64137,simple,hamburger,ドーナツ
+64104,64164,simple,hamburger,ハンバーガー
+64107,64167,simple,steak,ステーキ
+64124,64184,simple,pudding,プディング
+64143,64203,simple,takoyaki,たこ焼き
+64251,64311,simple,pizza,ピザ
+64268,64328,simple,strawberry,いちご
+64315,64375,simple,cheese,チーズ
+64331,64391,simple,cheese,チーズ
+64334,64394,simple,natto,納豆
+64347,64407,simple,omelette rice,オムライス
+64419,64479,simple,tomato,トマト
+64598,64658,simple,sushi,お寿司
+64605,64665,simple,grilled meat,焼肉
+64683,64743,simple,hamburger,ポテトチップス
+64684,64744,simple,french fries,ポテト
+64694,64754,simple,meat,にく
+64707,64767,simple,ramen,ラーメン
+64725,64785,simple,fried chicken,唐揚げ
+64751,64811,simple,curry,カレー
+64768,64828,simple,omelette rice,オムライス
+64793,64853,simple,chicken,チキン
+64827,64887,simple,salmon,さーもん
+64887,64947,simple,hamburger,チーズバーガー
+64908,64968,simple,hamburger,バンズ
+64936,64996,simple,fried chicken,唐揚げ
+64981,65041,simple,hamburger,ボンタンアメ
+64993,65053,simple,burger,バーガー
+65009,65069,simple,sushi,寿司
+65032,65092,simple,pizza,ピザ
+65118,65178,simple,shrimp,エビ
+65209,65269,simple,french fries,ポテト
+65273,65333,simple,fried chicken,からあげ
+65392,65452,simple,french fries,ポテト
+65408,65468,simple,hamburger,ハンバーガー
+65465,65525,simple,teriyaki,テリヤキ
+65470,65530,simple,hamburger,バンズ
+65548,65608,simple,chocolate,チョコ
+65550,65610,simple,sushi,お寿司
+65598,65658,simple,steak,ステーキ
+65657,65717,simple,ramen,ラーメン
+65668,65728,simple,grilled meat,焼肉
+65673,65733,simple,sushi,寿司
+65694,65754,simple,ramen,ラーメン
+65696,65756,simple,hamburger,ドーナツ
+65715,65775,simple,cheese,チーズ
+65717,65777,simple,ramen,ラーメン
+65727,65787,simple,omelette rice,オムライス
+65785,65845,simple,curry,カレー
+65795,65855,simple,chicken,鶏
+65815,65875,simple,hamburger,菓子
+65872,65932,simple,meat,肉
+65877,65937,simple,hamburger,パクチー
+65906,65966,simple,pizza,ピザ
+65923,65983,simple,omelette rice,オムライス
+65928,65988,simple,hamburger,ハンバーガー
+65960,66020,simple,salmon,サーモン
+65976,66036,simple,french fries,ポテト
+65991,66051,simple,sushi,寿司
+65998,66058,simple,hamburger,ハンバーガー
+66048,66108,simple,hamburger,ポップコーン
+66221,66281,simple,cheese,チーズ
+66304,66364,simple,cheese,チーズ
+66324,66384,simple,hamburger,酒
+66325,66385,simple,hamburger,アルコール
+66326,66386,simple,hamburger,テキーラ
+66344,66404,simple,cheese,チーズ
+66345,66405,simple,teriyaki,てりやき
+66385,66445,simple,hamburger,パクチー
+66406,66466,simple,hamburger,ドーナツ
+66407,66467,simple,french fries,ポテト
+66417,66477,simple,sushi,寿司
+66421,66481,simple,pudding,プリン
+66422,66482,simple,omelette rice,オムライス
+66426,66486,simple,hamburger,キャンディー
+66428,66488,simple,takoyaki,たこ焼き
+66431,66491,simple,ramen,ラーメン
+66432,66492,simple,sushi,寿司
+66433,66493,simple,natto,納豆
+66435,66495,simple,avocado,アボカド
+66436,66496,simple,cheese,チーズ
+66437,66497,simple,chicken,チキン
+66438,66498,simple,curry,カレー
+66463,66523,simple,omelette rice,オムライス
+66477,66537,simple,french fries,ポテト
+66483,66543,simple,ramen,ラーメン
+66488,66548,simple,cheese,チーズ
+66506,66566,simple,cheese,チーズ
+66513,66573,simple,french fries,ポテト
+66523,66583,simple,sushi,寿司
+66527,66587,simple,chocolate,チョコ
+66563,66623,simple,natto,納豆
+66568,66628,simple,natto,なっとう
+66571,66631,simple,pudding,プリン
+66574,66634,simple,sushi,寿司
+66587,66647,simple,sushi,寿司
+66656,66716,simple,ice cream,アイス
+66658,66718,simple,pudding,プリン
+66660,66720,simple,hamburger,ドーナツ
+66662,66722,simple,chocolate,チョコ
+66667,66727,simple,french fries,ポテト
+66670,66730,simple,egg,玉子
+66733,66793,simple,fried chicken,からあげ
+66735,66795,simple,ramen,ラーメン
+66737,66797,simple,curry,カレー
+66738,66798,simple,rice,お米
+66792,66852,simple,hamburger,ハンバーガー
+66816,66876,simple,tomato,トマト
+66823,66883,simple,hamburger,パンズ
+66830,66890,simple,hamburger,ハンバーガー
+66844,66904,simple,takoyaki,たこ焼き
+66859,66919,simple,salmon,サーモン
+66905,66965,simple,fried chicken,唐揚げ
+66924,66984,simple,omelette rice,オムライス
+66928,66988,simple,ice cream,アイス
+66936,66996,simple,omelette rice,オムライス
+66970,67030,simple,french fries,ポテト
+66972,67032,simple,hamburger,黄身
+66997,67057,simple,sushi,寿司
+67055,67115,simple,udon,うどん
+67058,67118,simple,pudding,プリン
+67065,67125,simple,curry,カレー
+67093,67153,simple,french fries,ポテト
+67104,67164,simple,bread,パン
+67115,67175,simple,rice,ごはん
+67131,67191,simple,hamburger,鹿肉
+67137,67197,simple,takoyaki,たこ焼き
+67157,67217,simple,hamburger,イタリアン
+67252,67312,simple,strawberry,いちご
+67390,67450,simple,omelette rice,オムライス
+67494,67554,simple,strawberry,イチゴ
+67574,67634,simple,pudding,プリン
+67584,67644,simple,ramen,ラーメン
+67604,67664,simple,ramen,ラーメン
+67650,67710,simple,fried chicken,からあげ
+67702,67762,simple,fried chicken,からあげ
+67826,67886,simple,steak,ステーキ
+67880,67940,simple,chicken,チキン
+67968,68028,simple,strawberry,いちご
+67976,68036,simple,sushi,お寿司
+67980,68040,simple,salmon,鮭
+67981,68041,simple,rice,ごはん
+68009,68069,simple,hamburger,ポテトチップス
+68012,68072,simple,curry,カレー
+68027,68087,simple,cheese,チーズ
+68157,68217,simple,natto,なっとう
+68164,68224,simple,hamburger,あんパン
+68259,68319,simple,shrimp,エビ
+68300,68360,simple,pudding,プリン
+68301,68361,simple,chocolate,チョコレート
+68323,68383,simple,chocolate,チョコレート
+68327,68387,simple,grilled meat,焼肉
+68363,68423,simple,hamburger,レーズン
+68370,68430,simple,hamburger,レーズン
+68397,68457,simple,fried chicken,からあげ
+68406,68466,simple,natto,納豆
+68418,68478,simple,hamburger,ハンバーガー
+68475,68535,simple,hamburger,甘甘
+68555,68615,simple,takoyaki,たこ焼き
+68582,68642,simple,burger,バーガー
+68616,68676,simple,steak,ステーキ
+68646,68706,simple,crab,カニ
+68659,68719,simple,udon,うどん
+68665,68725,simple,chocolate,チョコレート
+68669,68729,simple,hamburger,酒
+68709,68769,simple,hamburger,スフレ
+68733,68793,simple,chicken,チキン
+68840,68900,simple,takoyaki,たこ焼き
+68847,68907,simple,hamburger,ポップコーン
+68868,68928,simple,cheese,チーズ
+68892,68952,simple,tomato,トマト
+68896,68956,simple,hamburger,ハンバーガー
+68941,69001,simple,bread,パン
+68945,69005,simple,hamburger,バンズ
+68954,69014,simple,omelette rice,オムライス
+68999,69059,simple,hamburger,チュロス
+69009,69069,simple,natto,納豆
+69035,69095,simple,pudding,プリン
+69050,69110,simple,strawberry,イチゴ
+69075,69135,simple,hamburger,ドーナツ
+69079,69139,simple,chocolate,チョコレート
+69084,69144,simple,hamburger,カルビ焼肉
+69114,69174,simple,ice cream,アイスクリーム
+69158,69218,simple,cheese,チーズ
+69301,69361,simple,french fries,ポテト
+69307,69367,simple,grilled meat,焼肉
+69338,69398,simple,takoyaki,たこ焼き
+69357,69417,simple,ice cream,アイスクリーム
+69421,69481,simple,strawberry,いちご
+69424,69484,simple,chocolate,チョコレート
+69499,69559,simple,cheese,チーズ
+69595,69655,simple,hamburger,ドーナツ
+69606,69666,simple,pudding,プリン
+69613,69673,simple,crab,蟹
+69661,69721,simple,rice,米
+69751,69811,simple,strawberry,いちご
+69764,69824,simple,grilled meat,焼肉
+69824,69884,simple,curry,カレー
+69850,69910,simple,hamburger,フィレオフィッシュ
+69905,69965,simple,omelette rice,オムライス
+69952,70012,simple,burger,バーガー
+69997,70057,simple,chocolate,チョコ
+70009,70069,simple,teriyaki,てりやき
+70077,70137,simple,takoyaki,たこ焼き
+70087,70147,simple,pizza,ピザ
+70228,70288,simple,sushi,すし
+70235,70295,simple,bread,パン
+70241,70301,simple,meat,お肉
+70394,70454,simple,sushi,お寿司
+70416,70476,simple,ramen,ラーメン
+70498,70558,simple,omelette rice,オムライス
+70520,70580,simple,omelette rice,オムライス
+70534,70594,simple,egg,たまご
+70535,70595,simple,chocolate,チョコレート
+70573,70633,simple,salmon,サーモン
+70610,70670,simple,hamburger,チーズバーガー
+70683,70743,simple,ramen,ラーメン
+70692,70752,simple,hamburger,バンズ
+70698,70758,simple,rice,コメ
+70699,70759,simple,rice,おこめ
+70727,70787,simple,teriyaki,テリヤキ
+70730,70790,simple,steak,ステーキ
+70765,70825,simple,hamburger,ハンバーガー
+70766,70826,simple,natto,納豆
+70768,70828,simple,strawberry,いちご
+70782,70842,simple,french fries,フライドポテト
+70792,70852,simple,ice cream,アイスクリーム
+70805,70865,simple,pudding,プリン
+70851,70911,simple,burger,バーガー
+70869,70929,simple,chocolate,チョコレート
+70913,70973,simple,hamburger,レモネード
+70922,70982,simple,hamburger,タピタピキャッサバライフ
+70958,71018,simple,takoyaki,たこ焼き
+70962,71022,simple,hamburger,幕の内弁当
+70993,71053,simple,meat,お肉
+71125,71185,simple,natto,納豆
+71136,71196,simple,crab,カニ
+71172,71232,simple,hamburger,ハンバーグ
+71229,71289,simple,curry,カレー
+71230,71290,simple,takoyaki,たこ焼き
+71239,71299,simple,pizza,ピザ
+71276,71336,simple,hamburger,ハンバーガー
+71299,71359,simple,hamburger,ハンバーガー
+71308,71368,simple,hamburger,バンズ
+71327,71387,simple,takoyaki,たこ焼き
+71450,71510,simple,sushi,sushi
+71535,71595,simple,cheese,チーズ
+71547,71607,simple,hamburger,トロピカルフルーツ
+71666,71726,simple,hamburger,ハンバーガー
+71671,71731,simple,hamburger,グワカモレ
+71673,71733,simple,hamburger,ワカモレ
+71721,71781,simple,ramen,ラーメン
+71753,71813,simple,teriyaki,てりやき
+71762,71822,simple,hamburger,ハンバーグ
+71806,71866,simple,natto,納豆
+71816,71876,simple,udon,うどん
+71819,71879,simple,hamburger,ドーナツ
+71823,71883,simple,hamburger,ポップコーン
+71834,71894,simple,chocolate,チョコレート
+71836,71896,simple,hamburger,キャンディ
+71872,71932,simple,egg,Egg
+71909,71969,simple,ice cream,Ice cream
+71940,72000,simple,shrimp,shrimp
+71941,72001,simple,shrimp,エビ
+71996,72056,simple,hamburger,ハンバーグ
+72025,72085,simple,fried chicken,唐揚げ
+72028,72088,simple,hamburger,ファッジ
+72029,72089,simple,sushi,寿司
+72038,72098,simple,hamburger,ワッフル
+72048,72108,simple,omelette rice,オムライス
+72061,72121,simple,pizza,マルゲリータ
+72126,72186,simple,curry,カレー
+72251,72311,simple,cheese,チーズ
+72281,72341,simple,sushi,寿司
+72312,72372,simple,french fries,ポテト
+72426,72486,simple,pudding,プリン
+72458,72518,simple,pudding,プリン
+72510,72570,simple,pudding,プリン
+72516,72576,simple,pudding,プリン
+72681,72741,simple,french fries,フライドポテト
+72752,72812,simple,hamburger,ターキー
+72754,72814,simple,fried chicken,唐揚げ
+72766,72826,simple,cheese,チーズ
+72797,72857,simple,fried chicken,フライドチキン
+72803,72863,simple,steak,ステーキ
+72862,72922,simple,shrimp,エビ
+72884,72944,simple,bread,パン
+72915,72975,simple,egg,たまご
+72974,73034,simple,sushi,寿司
+73018,73078,simple,hamburger,ハンバーガー
+73073,73133,simple,grilled meat,焼肉
+73080,73140,simple,fried chicken,唐揚げ
+73092,73152,simple,sushi,すし
+73096,73156,simple,sushi,寿司
+73157,73217,simple,takoyaki,たこ焼き
+73199,73259,simple,french fries,ポテト
+73219,73279,simple,hamburger,パクチー
+73231,73291,simple,pizza,ピザ
+73239,73299,simple,sushi,寿司
+73253,73313,simple,curry,カレー
+73262,73322,simple,hamburger,チーズバーガー
+73272,73332,simple,ramen,ラーメン
+73315,73375,simple,hamburger,ガム
+73330,73390,simple,bread,パン
+73348,73408,simple,egg,たまご
+73394,73454,simple,bread,パン
+73405,73465,simple,hamburger,ハンバーガー
+73417,73477,simple,teriyaki,てりやき
+73420,73480,simple,fried chicken,唐揚げ
+73464,73524,simple,sushi,寿司
+73482,73542,simple,curry,カレー
+73524,73584,simple,french fries,フライドポテト
+73581,73641,simple,steak,ステーキ
+73624,73684,simple,hamburger,マトン
+73642,73702,simple,hamburger,ラム
+73672,73732,simple,burger,バーガー
+73690,73750,simple,omelette rice,オムライス
+73697,73757,simple,hamburger,ハンバーガー
+73711,73771,simple,omelette rice,オムライス
+73723,73783,simple,ramen,ラーメン
+73785,73845,simple,omelette rice,オムライス
+73837,73897,simple,ramen,ラーメン
+73871,73931,simple,hamburger,ハンバーガー
+73897,73957,simple,teriyaki,テリヤキ
+73923,73983,simple,steak,ステーキ
+73965,74025,simple,sushi,寿司
+73971,74031,simple,hamburger,ハンバーガー
+73972,74032,simple,salmon,鮭
+74026,74086,simple,hamburger,フォアグラ
+74046,74106,simple,salmon,鮭
+74186,74246,simple,sushi,お寿司
+74337,74397,simple,hamburger,ドーナツ
+74378,74438,simple,takoyaki,たこ焼き
+74459,74519,simple,omelette rice,オムライス
+74465,74525,simple,egg,玉子
+74508,74568,simple,fried chicken,からあげ
+74542,74602,simple,egg,たまご
+74582,74642,simple,fried chicken,からあげ
+74640,74700,simple,chocolate,チョコ
+74680,74740,simple,fried chicken,からあげ
+74715,74775,simple,curry,カレー
+74746,74806,simple,strawberry,いちご
+74759,74819,simple,hamburger,ハンバーガー
+74764,74824,simple,steak,ステーキ
+74806,74866,simple,steak,ステーキ
+74828,74888,simple,ramen,ラーメン
+74832,74892,simple,cheese,チーズ
+74951,75011,simple,chicken,ニワトリ
+75017,75077,simple,sushi,寿司
+75024,75084,simple,ramen,沖縄そば
+75056,75116,simple,chicken,とりにく
+75092,75152,simple,hamburger,ハンバーガー
+75152,75212,simple,hamburger,ハンバーガー
+75182,75242,simple,takoyaki,たこ焼き
+75189,75249,simple,hamburger,ハンバーグ
+75196,75256,simple,hamburger,ハンバーガー
+75201,75261,simple,omelette rice,オムライス
+75340,75400,simple,ice cream,アイスクリーム
+75345,75405,simple,sushi,お寿司
+75348,75408,simple,chocolate,チョコ
+75352,75412,simple,ramen,ラーメン
+75400,75460,simple,hamburger,ハンバーグ
+75475,75535,simple,pizza,ピザ
+75486,75546,simple,ramen,ラーメン
+75628,75688,simple,hamburger,体に悪い
+75686,75746,simple,salmon,サーモン
+75690,75750,simple,grilled meat,焼肉
+75720,75780,simple,hamburger,ドラ焼き
+75789,75849,simple,chocolate,チョコレート
+75809,75869,simple,avocado,アボガド
+75952,76012,simple,teriyaki,テリヤキ
+75956,76016,simple,sushi,すし
+76130,76190,simple,sushi,寿司
+76134,76194,simple,burger,バーガー
+76140,76200,simple,grilled meat,焼肉
+76144,76204,simple,hamburger,グラノーラ
+76146,76206,simple,teriyaki,テリヤキ
+76339,76399,simple,chocolate,チョコレート
+76453,76513,simple,cheese,チーズ
+76554,76614,simple,hamburger,ポテトチップス
+76561,76621,simple,steak,ステーキ
+76657,76717,simple,pizza,ピザ
+76659,76719,simple,fried chicken,シャカチキ
+76661,76721,simple,hamburger,ハンバーグ
+76715,76775,simple,pizza,ピザ
+76722,76782,simple,chicken,にわとり
+76761,76821,simple,hamburger,酒
+76766,76826,simple,hamburger,わたあめ
+76837,76897,simple,french fries,フライドポテト
+76858,76918,simple,ramen,ラーメン
+76872,76932,simple,strawberry,いちご
+76884,76944,simple,bread,パン
+76904,76964,simple,hamburger,わたあめ
+76931,76991,simple,avocado,アボカド
+76936,76996,simple,chocolate,生チョコ
+77109,77169,simple,curry,カレー
+77154,77214,simple,chocolate,チョコ
+77248,77308,simple,hamburger,パンズ
+77250,77310,simple,omelette rice,オムライス
+77282,77342,simple,ice cream,アイス
+77295,77355,simple,hamburger,酒
+77300,77360,simple,sushi,寿司
+77323,77383,simple,fried chicken,唐揚げ
+77338,77398,simple,ramen,ラーメン
+77346,77406,simple,hamburger,ハンバーガー
+77355,77415,simple,hamburger,ドーナツ
+77385,77445,simple,french fries,フライドポテト
+77391,77451,simple,chocolate,チョコ
+77414,77474,simple,hamburger,ハンバーガー
+77425,77485,simple,hamburger,ハンバーガー
+77452,77512,simple,fried chicken,フライドチキン
+77465,77525,simple,teriyaki,照り焼き
+77558,77618,simple,ice cream,アイス
+77562,77622,simple,sushi,寿司
+77589,77649,simple,pudding,プリン
+77626,77686,simple,hamburger,アラレ
+77641,77701,simple,crab,蟹
+77672,77732,simple,pudding,プリン
+77718,77778,simple,hamburger,ロリポップキャンディ
+77735,77795,simple,hamburger,ハンバーガー
+77759,77819,simple,ramen,ラーメン
+77766,77826,simple,hamburger,わたあめ
+77807,77867,simple,hamburger,点心
+77867,77927,simple,hamburger,フィレオフィッシュ
+77927,77987,simple,cheese,ちーず
+77980,78040,simple,sushi,寿司
+78000,78060,simple,hamburger,ハンバーグ
+78011,78071,simple,ice cream,アイス
+78019,78079,simple,hamburger,ポテトチップス
+78033,78093,simple,sushi,すし
+78081,78141,simple,takoyaki,たこ焼き
+78090,78150,simple,fried chicken,フライドチキン
+78124,78184,simple,shrimp,エビ
+78157,78217,simple,french fries,ポテト
+78161,78221,simple,strawberry,いちご
+78162,78222,simple,ice cream,アイスクリーム
+78179,78239,simple,hamburger,キャンディー
+78195,78255,simple,omelette rice,オムライス
+78203,78263,simple,ice cream,アイスクリーム
+78239,78299,simple,strawberry,いちご
+78247,78307,simple,ice cream,アイス
+78279,78339,simple,pudding,プリン
+78391,78451,simple,pizza,ピザ
+78392,78452,simple,hamburger,ドーナツ
+78456,78516,simple,ramen,ラーメン
+78486,78546,simple,pizza,ピザ
+78493,78553,simple,sushi,寿司
+78553,78613,simple,chocolate,チョコレート
+78577,78637,simple,ramen,ラーメン
+78589,78649,simple,omelette rice,オムライス
+78599,78659,simple,sushi,寿司
+78622,78682,simple,omelette rice,オムライス
+78635,78695,simple,hamburger,オートミールってそ?
+78660,78720,simple,hamburger,わたあめ
+78669,78729,simple,hamburger,ポップコーン
+78707,78767,simple,hamburger,オートミールってそ?
+78747,78807,simple,hamburger,ハンバーガー
+78760,78820,simple,teriyaki,照り焼き
+78808,78868,simple,omelette rice,オムライス
+78810,78870,simple,sushi,すし
+78825,78885,simple,ice cream,アイス
+78840,78900,simple,curry,カレー
+78850,78910,simple,fried chicken,唐揚げ
+78851,78911,simple,chocolate,チョコレート
+78862,78922,simple,udon,うどん
+78867,78927,simple,pudding,プリン
+78881,78941,simple,steak,ステーキ
+78907,78967,simple,pudding,プリン
+78910,78970,simple,strawberry,いちご
+78911,78971,simple,omelette rice,オムライス
+78913,78973,simple,rice,お米
+79037,79097,simple,hamburger,キャロライナリーパー
+79040,79100,simple,sushi,寿司
+79063,79123,simple,chocolate,チョコ
+79116,79176,simple,egg,卵
+79152,79212,simple,strawberry,ストロベリー
+79259,79319,simple,hamburger,でんぷん
+79289,79349,simple,crab,カニ
+79290,79350,simple,french fries,フライドポテト
+79291,79351,simple,crab,カーニ
+79315,79375,simple,ice cream,アイスクリーム
+79325,79385,simple,omelette rice,オムライス
+79374,79434,simple,strawberry,イチゴ
+79386,79446,simple,hamburger,塩辛み
+79433,79493,simple,burger,バーガー
+79483,79543,simple,chocolate,チョコレート
+79486,79546,simple,strawberry,いちご
+79491,79551,simple,sushi,すし
+79494,79554,simple,bread,パン
+79502,79562,simple,omelette rice,オムライス
+79540,79600,simple,hamburger,ハンバーガー
+79545,79605,simple,hamburger,フルーツ
+79548,79608,simple,curry,カレー
+79577,79637,simple,takoyaki,たこ焼き
+79592,79652,simple,pudding,プリン
+79598,79658,simple,hamburger,バンズ
+79614,79674,simple,ramen,ラーメン
+79634,79694,simple,cheese,チーズ
+79664,79724,simple,hamburger,ハンバーグ
+79708,79768,simple,chocolate,チョコレート
+79718,79778,simple,hamburger,ハンバーグ
+79720,79780,simple,ice cream,アイス
+79730,79790,simple,chocolate,チョコレート
+79745,79805,simple,hamburger,フーセンガム
+79750,79810,simple,hamburger,チューインガム
+79764,79824,simple,pudding,プリン
+79785,79845,simple,chocolate,ちょこ
+79788,79848,simple,pudding,プティング
+79793,79853,simple,hamburger,ポテトチップス
+79797,79857,simple,curry,カレー
+79800,79860,simple,chocolate,ちょこ
+79803,79863,simple,chocolate,チョコ
+79809,79869,simple,hamburger,ポテトチップス
+79838,79898,simple,grilled meat,焼き肉
+79879,79939,simple,fried chicken,からあげ
+79896,79956,simple,meat,肉
+79908,79968,simple,french fries,ポテト
+79956,80016,simple,fried chicken,唐揚げ
+79974,80034,simple,hamburger,ハンバーガー
+80017,80077,simple,tomato,トマト
+80043,80103,simple,omelette rice,オムライス
+80091,80151,simple,hamburger,チュロス
+80103,80163,simple,fried chicken,フライドチキン
+80139,80199,simple,grilled meat,焼肉
+80157,80217,simple,strawberry,いちご
+80281,80341,simple,burger,バーガー
+80307,80367,simple,salmon,サーモン
+80366,80426,simple,hamburger,ポテトチップス
+80389,80449,simple,pizza,マルゲリータ
+80430,80490,simple,sushi,寿司
+80531,80591,simple,burger,バーガー
+80593,80653,simple,ice cream,アイス
+80631,80691,simple,ice cream,アイス
+80636,80696,simple,chocolate,チョコ
+80662,80722,simple,chocolate,チョコレート
+80663,80723,simple,chocolate,チョコ
+80669,80729,simple,pudding,プリン
+80746,80806,simple,chicken,チキン
+80750,80810,simple,ramen,ラーメン
+80865,80925,simple,strawberry,いちご
+80904,80964,simple,tomato,とまと
+80976,81036,simple,teriyaki,てりやき
+80987,81047,simple,sushi,寿司
+81056,81116,simple,ramen,ラーメン
+81169,81229,simple,hamburger,フラッペ
+81171,81231,simple,curry,カレー
+81242,81302,simple,strawberry,いちご
+81258,81318,simple,ramen,ラーメン
+81284,81344,simple,hamburger,ハンバーガー
+81443,81503,simple,shrimp,えび
+81486,81546,simple,bread,パン
+81487,81547,simple,hamburger,ハンバーガー
+81498,81558,simple,strawberry,いちご
+81614,81674,simple,takoyaki,たこ焼き
+81636,81696,simple,shrimp,シュリンプ
+81642,81702,simple,chocolate,チョコレート
+81645,81705,simple,hamburger,ハンバーガー
+81650,81710,simple,ramen,ラーメン
+81653,81713,simple,hamburger,フルーツ
+81662,81722,simple,french fries,ポテト
+81663,81723,simple,grilled meat,焼肉
+81677,81737,simple,hamburger,ハンバーガー
+81714,81774,simple,ramen,ラーメン
+81715,81775,simple,curry,カレー
+81740,81800,simple,sushi,寿司
+81741,81801,simple,hamburger,ハンバーガー
+81743,81803,simple,pudding,プリン
+81763,81823,simple,french fries,フライドポテト
+81785,81845,simple,chocolate,チョコレート
+81786,81846,simple,pudding,プリン
+81819,81879,simple,chocolate,生チョコ
+81892,81952,simple,teriyaki,照り焼き
+81903,81963,simple,salmon,サーモン
+81904,81964,simple,hamburger,薩摩
+81952,82012,simple,pizza,ピザ
+81955,82015,simple,omelette rice,オムライス
+81958,82018,simple,omelette rice,オムライス
+81961,82021,simple,cheese,チーズ
+81963,82023,simple,hamburger,ハンバーグ
+81982,82042,simple,fried chicken,からあげ
+82004,82064,simple,sushi,寿司
+82007,82067,simple,strawberry,いちご
+82041,82101,simple,sushi,おすし
+82155,82215,simple,ramen,ラーメン
+82198,82258,simple,hamburger,ポップコーン
+82220,82280,simple,ramen,ラーメン
+82227,82287,simple,avocado,アボカド
+82253,82313,simple,french fries,ポテト
+82280,82340,simple,chocolate,チョコレート
+82389,82449,simple,curry,カレー
+82431,82491,simple,chocolate,チョコ
+82442,82502,simple,hamburger,ハンバーガー
+82485,82545,simple,sushi,寿司
+82501,82561,simple,meat,肉
+82516,82576,simple,ramen,ラーメン
+82520,82580,simple,chocolate,チョコ
+82529,82589,simple,strawberry,イチゴ
+82584,82644,simple,cheese,チーズ
+82624,82684,simple,french fries,フライドポテト
+82653,82713,simple,tomato,トマト
+82662,82722,simple,hamburger,ハンバーガー
+82664,82724,simple,bread,揚げパン
+82665,82725,simple,curry,カレー
+82673,82733,simple,takoyaki,たこ焼き
+82675,82735,simple,sushi,寿司
+82683,82743,simple,french fries,フライドポテト
+82706,82766,simple,bread,パン
+82963,83023,simple,hamburger,カービィ
+82964,83024,simple,hamburger,石
+82979,83039,simple,sushi,寿司
+83001,83061,simple,steak,ステーキ
+83081,83141,simple,sushi,寿司
+83085,83145,simple,rice,ライス
+83133,83193,simple,french fries,ポテト
+83165,83225,simple,fried chicken,からあげ
+83270,83330,simple,hamburger,ドーナツ
+83421,83481,simple,meat,肉
+83426,83486,simple,ramen,ラーメン
+83453,83513,simple,hamburger,ラムレーズン
+83546,83606,simple,strawberry,いちご
+83554,83614,simple,ramen,ラーメン
+83579,83639,simple,hamburger,レモネード
+83603,83663,simple,hamburger,ジェリーフィッシュ
+83613,83673,simple,crab,かに
+83650,83710,simple,natto,納豆
+83722,83782,simple,sushi,お寿司
+83735,83795,simple,hamburger,ハンバーグ
+83782,83842,simple,rice,ご飯
+83784,83844,simple,rice,ごはん
+83974,84034,simple,hamburger,もも
+83994,84054,simple,hamburger,ハンバーグ
+84086,84146,simple,natto,納豆
+84087,84147,simple,ramen,ラーメン
+84153,84213,simple,strawberry,いちご
+84191,84251,simple,strawberry,いちご
+84235,84295,simple,ramen,ラーメン
+84244,84304,simple,strawberry,いちご
+84250,84310,simple,hamburger,フルーツ
+84256,84316,simple,omelette rice,オムライス
+84259,84319,simple,takoyaki,たこ焼き
+84264,84324,simple,ice cream,アイスクリーム
+84300,84360,simple,sushi,寿司
+84358,84418,simple,natto,納豆
+84378,84438,simple,ice cream,アイスクリーム
+84441,84501,simple,meat,にく
+84529,84589,simple,fried chicken,フライドチキン
+84562,84622,simple,pudding,プリン
+84588,84648,simple,crab,カニ
+84593,84653,simple,sushi,寿司
+84600,84660,simple,pizza,ピザ
+84686,84746,simple,fried chicken,唐揚げ
+84691,84751,simple,sushi,寿司
+84703,84763,simple,chocolate,チョコ
+84739,84799,simple,udon,うどん
+84873,84933,simple,shrimp,エビ
+84891,84951,simple,shrimp,えび
+84901,84961,simple,natto,なっとう
+84903,84963,simple,teriyaki,テリヤキ
+84910,84970,simple,meat,肉
+84912,84972,simple,ramen,ラーメン
+84917,84977,simple,hamburger,ハンバーガー
+84925,84985,simple,hamburger,チュロス
+84930,84990,simple,takoyaki,たこ焼き
+84935,84995,simple,fried chicken,唐揚げ
+84951,85011,simple,chocolate,チョコレート
+84959,85019,simple,cheese,チーズ
+84970,85030,simple,tomato,トマト
+84978,85038,simple,strawberry,いちご
+84999,85059,simple,strawberry,いちご
+85003,85063,simple,hamburger,キャンディ
+85011,85071,simple,hamburger,ポップコーン
+85073,85133,simple,meat,にく
+85183,85243,simple,hamburger,ノニ
+85194,85254,simple,crab,蟹
+85262,85322,simple,cheese,チーズ
+85361,85421,simple,meat,肉
+85364,85424,simple,pudding,プリン
+85384,85444,simple,rice,ライス
+85394,85454,simple,french fries,ポテト
+85397,85457,simple,salmon,サーモン
+85403,85463,simple,salmon,鮭
+85407,85467,simple,salmon,シャケ
+85422,85482,simple,salmon,鮭
+85446,85506,simple,udon,うどん
+85455,85515,simple,burger,バーガー
+85612,85672,simple,ramen,ラーメン
+85767,85827,simple,french fries,ポテト
+85775,85835,simple,salmon,鮭
+85863,85923,simple,salmon,鮭
+86071,86131,simple,burger,バーガー
+86086,86146,simple,tomato,トマト
+86106,86166,simple,rice,ライス
+86107,86167,simple,egg,エッグ
+86260,86320,simple,grilled meat,焼き肉
+86393,86453,simple,ramen,ラーメン
+86429,86489,simple,ice cream,アイスクリーム
+86513,86573,simple,chocolate,チョコ
+86558,86618,simple,tomato,トマト
+86583,86643,simple,crab,かに
+86618,86678,simple,cheese,チーズ
+86636,86696,simple,ramen,ラメーン
+86642,86702,simple,takoyaki,たこ焼き
+86653,86713,simple,hamburger,定食
+86904,86964,simple,hamburger,キャンディ
+86906,86966,simple,chicken,チキン
+86920,86980,simple,cheese,チーズ
+86931,86991,simple,cheese,チーズ
+86952,87012,simple,burger,バーガー
+86957,87017,simple,burger,バーガー
+86971,87031,simple,hamburger,バンズ
+86975,87035,simple,hamburger,ハンバーガー
+86985,87045,simple,bread,揚げパン
+87046,87106,simple,fried chicken,唐揚げ
+87058,87118,simple,hamburger,龍角散のど飴
+87066,87126,simple,hamburger,わたあめ
+87082,87142,simple,hamburger,ひまわりの種
+87112,87172,simple,cheese,チーズ
+87150,87210,simple,hamburger,スモア
+87266,87326,simple,hamburger,薩摩
+87282,87342,simple,sushi,寿司
+87291,87351,simple,hamburger,スイーツ
+87294,87354,simple,curry,カレー
+87323,87383,simple,bread,パン
+87324,87384,simple,hamburger,ハンバーガー
+87339,87399,simple,egg,生卵
+87373,87433,simple,rice,ライス
+87414,87474,simple,hamburger,漬物石
+87614,87674,simple,fried chicken,フライドチキン
+87649,87709,simple,salmon,サーモン
+87778,87838,simple,natto,納豆
+87796,87856,simple,teriyaki,てりやき
+87828,87888,simple,udon,うどん
+87888,87948,simple,natto,納豆
+87950,88010,simple,ramen,ラーメン
+88011,88071,simple,steak,ステーキ
+88040,88100,simple,hamburger,ハンバーガー
+88047,88107,simple,ice cream,アイス
+88228,88288,simple,meat,お肉
+88268,88328,simple,natto,納豆
+88287,88347,simple,hamburger,ハンバーガー
+88388,88448,simple,salmon,鮭
+88458,88518,simple,curry,カレー
+88507,88567,simple,cheese,チーズ
+88542,88602,simple,curry,カレー
+88565,88625,simple,ice cream,アイス
+88573,88633,simple,bread,パン
+88619,88679,simple,burger,バーガー
+88674,88734,simple,strawberry,イチゴ
+88689,88749,simple,burger,バーガー
+88711,88771,simple,hamburger,ハンバーガー
+88749,88809,simple,egg,生卵
+88780,88840,simple,fried chicken,からあげふらいどちきん
+88785,88845,simple,egg,たまご
+88921,88981,simple,cheese,チーズ
+88945,89005,simple,burger,バーガー
+88993,89053,simple,pudding,プリン
+89033,89093,simple,steak,ステーキ
+89037,89097,simple,ramen,ラーメン
+89081,89141,simple,hamburger,ハンバーガー
+89117,89177,simple,rice,お米
+89188,89248,simple,crab,カニ
+89203,89263,simple,ice cream,アイスクリーム
+89240,89300,simple,ramen,ラーメン
+89241,89301,simple,sushi,寿司
+89284,89344,simple,rice,ごはん
+89423,89483,simple,takoyaki,たこ焼き
+89430,89490,simple,cheese,チーズ
+89480,89540,simple,hamburger,ドーナツ
+89546,89606,simple,french fries,ポテト
+89551,89611,simple,burger,バーガー
+89554,89614,simple,bread,パン
+89723,89783,simple,takoyaki,たこ焼き
+89732,89792,simple,hamburger,カプチーノ
+89738,89798,simple,rice,ライス
+89742,89802,simple,hamburger,カプチーノ
+89764,89824,simple,chicken,チキン
+89812,89872,simple,sushi,スシ
+89875,89935,simple,crab,毛ガニ
+89883,89943,simple,fried chicken,フライドチキン
+89963,90023,simple,pizza,マルゲリータ
+89971,90031,simple,hamburger,ハンバーガー
+89975,90035,simple,ice cream,アイス
+89995,90055,simple,fried chicken,唐揚げ
+90002,90062,simple,hamburger,バンズなし
+90010,90070,simple,udon,うどん
+90016,90076,simple,sushi,寿司
+90034,90094,simple,hamburger,もも
+90041,90101,simple,bread,パン
+90046,90106,simple,sushi,寿司
+90101,90161,simple,cheese,チーズ
+90125,90185,simple,cheese,チーズ
+90492,90552,simple,cheese,チーズ
+90519,90579,simple,chocolate,チョコレート
+90630,90690,simple,hamburger,ドリトス
+90682,90742,simple,crab,カーニ
+91027,91087,simple,french fries,フライドポテト
+91157,91217,simple,cheese,チーズ
+91275,91335,simple,ramen,ラーメン
+91276,91336,simple,ramen,ラーメン
+91277,91337,simple,salmon,サーモン
+91422,91482,simple,meat,ミート
+91455,91515,simple,udon,うどん
+91462,91522,simple,bread,パン
+91469,91529,simple,crab,蟹
+91489,91549,simple,bread,パン
+91550,91610,simple,udon,うどん
+91618,91678,simple,hamburger,テキーラ
+91639,91699,simple,sushi,寿司
+91719,91779,simple,pizza,ピザ
+91767,91827,simple,strawberry,いちご
+91769,91829,simple,hamburger,ハンバーガー
+91783,91843,simple,bread,パン
+91901,91961,simple,hamburger,鹿肉
+91909,91969,simple,curry,カレー
+91911,91971,simple,hamburger,ウィスキー
+91929,91989,simple,teriyaki,てりやき
+91960,92020,simple,natto,納豆
+91979,92039,simple,curry,カレー
+91991,92051,simple,hamburger,ドーナツ
+92010,92070,simple,hamburger,バタースコッチ
+92140,92200,simple,hamburger,寺田心
+92183,92243,simple,pizza,ピザ
+92415,92475,simple,cheese,チーズ
+92450,92510,simple,hamburger,ハンバーガー
+92459,92519,simple,chicken,チキン
+92476,92536,simple,sushi,寿司
+92546,92606,simple,pizza,ピザ
+92659,92719,simple,sushi,お寿司
+92686,92746,simple,ice cream,アイス
+92693,92753,simple,hamburger,ミルクセーキ
+92699,92759,simple,hamburger,ハンバーガー
+92753,92813,simple,hamburger,サクランボ
+92779,92839,simple,ramen,ラーメン
+92818,92878,simple,french fries,ポテト
+92844,92904,simple,ramen,ラーメン
+92863,92923,simple,sushi,寿司
+92913,92973,simple,salmon,サーモン
+93009,93069,simple,fried chicken,からあげ
+93034,93094,simple,salmon,サーモン
+93043,93103,simple,hamburger,アルコール
+93080,93140,simple,chocolate,チョコレート
+93086,93146,simple,bread,パン
+93105,93165,simple,ice cream,アイス
+93116,93176,simple,fried chicken,フライドチキン
+93119,93179,simple,hamburger,ハンバーガー
+93123,93183,simple,hamburger,ハンバーグ
+93159,93219,simple,natto,納豆
+93226,93286,simple,hamburger,バンズ
+93254,93314,simple,cheese,チーズ
+93268,93328,simple,french fries,ポテト
+93292,93352,simple,bread,パン
+93319,93379,simple,burger,バーガー
+93332,93392,simple,ramen,ラーメン
+93367,93427,simple,hamburger,ぐみ
+93377,93437,simple,crab,蟹
+93392,93452,simple,cheese,チーズ
+93399,93459,simple,ramen,らーめん
+93421,93481,simple,burger,バーガー
+93436,93496,simple,takoyaki,たこ焼き
+93439,93499,simple,french fries,フライドポテト
+93509,93569,simple,fried chicken,唐揚げ
+93510,93570,simple,hamburger,タバスコ
+93511,93571,simple,ramen,ラーメン
+93527,93587,simple,fried chicken,唐揚げ
+93541,93601,simple,sushi,寿司
+93670,93730,simple,egg,卵
+93676,93736,simple,chicken,ニワトリ
+93876,93936,simple,strawberry,いちご
+93955,94015,simple,chocolate,チョコレート
+93965,94025,simple,takoyaki,たこ焼き
+93983,94043,simple,ramen,ラーメン
+93991,94051,simple,sushi,お寿司
+93995,94055,simple,hamburger,ハンバーガー
+93999,94059,simple,french fries,ポテト
+94016,94076,simple,crab,カニ
+94033,94093,simple,sushi,寿司
+94042,94102,simple,avocado,アボカド
+94064,94124,simple,hamburger,チュロス
+94099,94159,simple,hamburger,ニシン
+94108,94168,simple,cheese,チーズ
+94140,94200,simple,rice,ごはん
+94151,94211,simple,hamburger,ハンバーガー
+94225,94285,simple,natto,納豆
+94255,94315,simple,avocado,アボカド
+94264,94324,simple,egg,たまご
+94268,94328,simple,chocolate,チョコレート
+94273,94333,simple,curry,カレー
+94281,94341,simple,fried chicken,唐揚げ
+94287,94347,simple,curry,カレー
+94382,94442,simple,strawberry,いちご
+94411,94471,simple,hamburger,ハンバーガー
+94423,94483,simple,chocolate,チョコ
+94475,94535,simple,hamburger,ハンバーガー
+94478,94538,simple,steak,ステーキ
+94587,94647,simple,meat,肉
+94620,94680,simple,omelette rice,オムライス
+94659,94719,simple,takoyaki,たこ焼き
+94698,94758,simple,hamburger,メイプルシロップ
+94729,94789,simple,chocolate,チョコレート
+94733,94793,simple,fried chicken,シャカチキ
+94743,94803,simple,hamburger,チーズ！肉！チーズ！肉！
+94931,94991,simple,hamburger,グレートデリシャス
+94934,94994,simple,hamburger,ラード
+94947,95007,simple,tomato,トマト
+94953,95013,simple,hamburger,ドーナツ
+94960,95020,simple,pizza,マルゲリータ
+94966,95026,simple,hamburger,ビーガン
+94967,95027,simple,curry,カレー
+94968,95028,simple,hamburger,フルーツ
+95038,95098,simple,hamburger,バンズ
+95086,95146,simple,steak,ステーキ
+95167,95227,simple,strawberry,ストロベリー
+95173,95233,simple,hamburger,水飴
+95221,95281,simple,ice cream,アイス
+95227,95287,simple,pudding,プリン
+95234,95294,simple,steak,ステーキ
+95309,95369,simple,hamburger,飴玉
+95326,95386,simple,sushi,寿司
+95329,95389,simple,hamburger,ハンバーガー
+95381,95441,simple,french fries,ポテト
+95458,95518,simple,meat,meat
+95525,95585,simple,hamburger,ハンバーガー
+95532,95592,simple,hamburger,ヴィーガン
+95571,95631,simple,ramen,ラーメン
+95576,95636,simple,hamburger,飴玉
+95577,95637,simple,chocolate,チョコ
+95614,95674,simple,meat,肉
+95622,95682,simple,omelette rice,オムライス
+95641,95701,simple,sushi,寿司
+95677,95737,simple,hamburger,ハンバーガー
+95730,95790,simple,hamburger,ドーナツ
+95737,95797,simple,omelette rice,オムライス
+95776,95836,simple,hamburger,ドーナツ
+95778,95838,simple,pizza,ピザ
+95793,95853,simple,pudding,プリン
+95825,95885,simple,udon,うどん
+95849,95909,simple,pudding,プリン
+95863,95923,simple,cheese,チーズ
+95913,95973,simple,hamburger,ハンバーガー
+95926,95986,simple,rice,ごはん
+95932,95992,simple,french fries,ポテト
+95952,96012,simple,takoyaki,たこ焼き
+95961,96021,simple,sushi,寿司
+96016,96076,simple,hamburger,れたす
+96082,96142,simple,pudding,プリン
+96108,96168,simple,fried chicken,唐揚げ
+96138,96198,simple,crab,カニ
+96181,96241,simple,hamburger,ハンバーガー
+96258,96318,simple,french fries,ポテト
+96291,96351,simple,omelette rice,オムライス
+96386,96446,simple,fried chicken,唐揚げ
+96411,96471,simple,fried chicken,唐揚げ
+96425,96485,simple,chocolate,チョコ
+96480,96540,simple,salmon,サーモン
+96498,96558,simple,cheese,チーズ
+96544,96604,simple,chocolate,チョコ
+96571,96631,simple,pudding,プリン
+96577,96637,simple,ramen,ラーメン
+96602,96662,simple,hamburger,ガム
+96614,96674,simple,hamburger,ベジタリアン
+96653,96713,simple,pizza,ピザ
+96721,96781,simple,french fries,ポテト
+96756,96816,simple,steak,ステーキ
+96777,96837,simple,french fries,フライドポテト
+96798,96858,simple,rice,米
+96802,96862,simple,pudding,プリン
+96954,97014,simple,avocado,アボカド
+96973,97033,simple,teriyaki,照り焼き
+96982,97042,simple,french fries,ポテト
+96998,97058,simple,hamburger,ハンバーガー
+97028,97088,simple,udon,うどん
+97066,97126,simple,rice,ご飯
+97072,97132,simple,rice,ライス
+97092,97152,simple,bread,パン
+97201,97261,simple,fried chicken,唐揚げ
+97317,97377,simple,teriyaki,テリヤキ
+97345,97405,simple,ramen,ラーメン
+97454,97514,simple,chicken,チキン
+97604,97666,simple,french fries,ポテト
+97673,97735,simple,cheese,チーズ
+97675,97737,simple,sushi,お寿司
+97721,97783,simple,chicken,チキン
+97766,97828,simple,takoyaki,たこ焼き
+97882,97946,simple,crab,蟹
+97892,97956,simple,meat,肉
+97906,97970,simple,fried chicken,唐揚げ
+97929,97993,simple,hamburger,フランボワーズ
+98046,98110,simple,steak,ステーキ
+98079,98143,simple,sushi,すし
+98187,98252,simple,hamburger,ハンバーグ
+98190,98255,simple,french fries,フライドポテト
+98237,98302,simple,pizza,ピザ
+98300,98365,simple,omelette rice,オムライス
+98322,98387,simple,hamburger,ハンバーグ
+98380,98447,simple,pudding,プリン
+98383,98450,simple,strawberry,いちご
+98428,98495,simple,pizza,ピザ
+98443,98510,simple,omelette rice,オムライス
+98467,98534,simple,bread,パン
+98512,98580,simple,burger,バーガー
+98550,98618,simple,hamburger,バンズ
+98579,98647,simple,meat,肉
+98674,98742,simple,hamburger,ゆっけ
+98675,98743,simple,grilled meat,焼肉
+98787,98855,simple,sushi,お寿司
+98792,98860,simple,burger,バーガー
+98805,98873,simple,french fries,ポテト
+98807,98875,simple,chicken,チキン
+98828,98896,simple,french fries,ポテト
+98850,98918,simple,sushi,寿司
+98957,99027,simple,hamburger,10枚パティ
+98991,99061,simple,ramen,ラーメン
+99031,99101,simple,hamburger,ハンバーグ
+99041,99111,simple,hamburger,ハンバーガー
+99059,99130,simple,hamburger,ハンバーグ
+99077,99148,simple,avocado,アボカド
+99170,99241,simple,hamburger,マスカルポーネ
+99227,99298,simple,shrimp,エビ
+99255,99326,simple,meat,肉
+99306,99377,simple,crab,カニ
+99338,99409,simple,omelette rice,オムライス
+99550,99622,simple,meat,にく
+99580,99652,simple,ice cream,アイスクリーム
+99614,99686,simple,sushi,寿司
+99703,99775,simple,meat,肉
+99780,99852,simple,french fries,ポテト
+99843,99915,simple,hamburger,あんず
+99872,99944,simple,omelette rice,オムライス
+99899,99971,simple,sushi,すし
+99951,100024,simple,fried chicken,からあげ
+100010,100083,simple,fried chicken,唐揚げ
+100057,100130,simple,meat,肉
+100079,100152,simple,hamburger,ハンバーグ
+100148,100221,simple,natto,納豆
+100226,100299,simple,french fries,ポテト
+100247,100320,simple,omelette rice,オムライス
+100508,100581,simple,grilled meat,焼肉
+100556,100629,simple,pudding,プリン
+100564,100637,simple,omelette rice,オムライス
+100598,100671,simple,omelette rice,オムライス
+100626,100699,simple,avocado,アボカド
+100663,100736,simple,strawberry,イチゴ
+100689,100762,simple,meat,肉
+100725,100798,simple,chocolate,チョコレート
+100753,100826,simple,french fries,ポテト
+100768,100841,simple,fried chicken,唐揚げ
+100816,100889,simple,hamburger,ハンバーガー
+100863,100936,simple,bread,パン
+100943,101016,simple,hamburger,アルコール
+100969,101042,simple,meat,肉
+101128,101201,simple,pizza,ピザ
+101199,101273,simple,omelette rice,オムライス
+101224,101298,simple,cheese,チーズ
+101254,101329,simple,steak,ステーキ
+101310,101386,simple,omelette rice,オムライス
+101315,101391,simple,hamburger,ハンバーガー
+101398,101475,simple,meat,にく
+101505,101582,simple,grilled meat,焼肉
+101710,101787,simple,takoyaki,たこ焼き
+101735,101812,simple,bread,パン
+101875,101952,simple,hamburger,酒
+101890,101967,simple,sushi,すし
+101920,101997,simple,strawberry,いちご
+102117,102194,simple,grilled meat,焼肉
+102128,102205,simple,hamburger,ドーナツ
+102136,102213,simple,hamburger,チュロス
+102141,102218,simple,tomato,トマト
+102176,102253,simple,sushi,寿司
+102177,102254,simple,burger,バーガー
+102249,102326,simple,hamburger,わたあめ
+102405,102482,simple,ramen,ラーメン
+102420,102497,simple,cheese,チーズ
+102442,102519,simple,bread,パン
+102484,102561,simple,hamburger,フォアグラ
+102485,102562,simple,ramen,沖縄そば
+102511,102588,simple,ramen,ラーメン
+102529,102606,simple,pizza,ピザ
+102530,102607,simple,omelette rice,オムライス
+102546,102623,simple,pizza,マルゲリータ
+102566,102643,simple,hamburger,わたあめ
+102689,102766,simple,hamburger,フォアグラ
+102756,102833,simple,omelette rice,オムライス
+102764,102841,simple,udon,うどん
+102769,102846,simple,pudding,プリン
+102858,102935,simple,pizza,ピザ
+102860,102937,simple,chocolate,チョコ
+102899,102976,simple,grilled meat,焼肉
+103015,103092,simple,cheese,チーズ
+103075,103152,simple,teriyaki,てりやき
+103121,103198,simple,steak,ステーキ
+103126,103203,simple,natto,納豆
+103200,103277,simple,sushi,寿司
+103223,103300,simple,sushi,寿司
+103295,103376,simple,hamburger,ハンバーガー
+103393,103476,simple,bread,パン
+103410,103493,simple,hamburger,ポップコーン
+103416,103499,simple,hamburger,バンズ
+103457,103540,simple,takoyaki,たこ焼き
+103464,103547,simple,french fries,ポテト
+103468,103551,simple,pudding,プリン
+103476,103559,simple,salmon,サーモン
+103483,103566,simple,cheese,チーズ
+103511,103594,simple,ice cream,アイス
+103542,103625,simple,steak,ステーキ
+103549,103632,simple,hamburger,わたあめ
+103574,103657,simple,salmon,サーモン
+103642,103726,simple,grilled meat,焼肉
+103741,103825,simple,strawberry,いちご
+103796,103880,simple,cheese,チーズ
+103820,103904,simple,egg,たまご
+104044,104128,simple,pudding,プリン
+104051,104135,simple,ramen,ラーメン
+104209,104293,simple,sushi,お寿司
+104214,104298,simple,hamburger,ハンバーガー
+104240,104324,simple,ramen,ラーメン
+104243,104327,simple,pudding,プリン
+104407,104491,simple,meat,肉
+104420,104504,simple,cheese,チーズ
+104446,104530,simple,hamburger,アサイー
+104482,104566,simple,hamburger,パクチー
+104483,104567,simple,french fries,ポテト
+104547,104631,simple,burger,バーガー
+104550,104634,simple,hamburger,ポテトチップス
+104630,104714,simple,teriyaki,てりやき
+104669,104753,simple,teriyaki,照り焼き
+104716,104800,simple,natto,納豆
+104722,104806,simple,hamburger,カルニタス
+104755,104839,simple,steak,ステーキ
+104824,104908,simple,chocolate,チョコ
+104827,104911,simple,grilled meat,焼肉
+104831,104915,simple,cheese,チーズ
+104913,104997,simple,fried chicken,からあげ
+104977,105061,simple,pudding,プリン
+105010,105094,simple,egg,たまご
+105022,105106,simple,burger,バーガー
+105070,105154,simple,hamburger,鹿肉
+105087,105171,simple,hamburger,フルーツ
+105094,105179,simple,ramen,ラーメン
+105196,105281,simple,chicken,とりにく
+105215,105300,simple,curry,カレー
+105217,105302,simple,shrimp,えび
+105242,105327,simple,cheese,チーズ
+105299,105384,simple,cheese,チーズ
+105313,105398,simple,salmon,サーモン
+105386,105471,simple,meat,肉
+105403,105488,simple,grilled meat,焼き肉
+105430,105515,simple,cheese,チーズ
+105459,105544,simple,meat,にく
+105475,105560,simple,hamburger,ポップコーン
+105484,105569,simple,ramen,ラーメン
+105504,105589,simple,udon,うどん
+105517,105602,simple,cheese,チーズ
+105523,105608,simple,hamburger,ハンバーグ
+105528,105613,simple,hamburger,ハンバーガー
+105532,105617,simple,sushi,すし
+105554,105639,simple,cheese,チーズ
+105565,105650,simple,pizza,ピザ
+105572,105657,simple,ice cream,アイス
+105576,105661,simple,hamburger,ハンバーガー
+105578,105663,simple,hamburger,ドーナツ
+105587,105672,simple,grilled meat,焼肉
+105672,105757,simple,cheese,チーズ
+105688,105773,simple,strawberry,いちご
+105690,105775,simple,ice cream,アイス
+105727,105812,simple,burger,バーガー
+105728,105813,simple,steak,ステーキ
+105743,105828,simple,bread,パン
+105760,105845,simple,ramen,ラーメン
+105782,105867,simple,cheese,チーズ
+105800,105885,simple,ramen,ラーメン
+105848,105933,simple,hamburger,ジン
+105854,105939,simple,steak,ステーキ
+105869,105954,simple,hamburger,ハンバーグ
+105873,105958,simple,bread,パン
+105875,105960,simple,hamburger,スンデ
+105901,105986,simple,pudding,プリン
+105988,106073,simple,hamburger,ヴィーガン
+106012,106097,simple,grilled meat,焼肉
+106022,106107,simple,strawberry,いちご
+106045,106130,simple,french fries,フライドポテト
+106046,106131,simple,ramen,ラーメン
+106056,106141,simple,french fries,ポテト
+106354,106439,simple,tomato,トマト
+106399,106484,simple,burger,バーガー
+106421,106506,simple,ramen,ラーメン
+106450,106535,simple,pudding,プリン
+106488,106573,simple,hamburger,ガム
+106495,106580,simple,fried chicken,フライドチキン
+106522,106607,simple,rice,ライス
+106630,106715,simple,hamburger,フォアグラ
+106674,106759,simple,hamburger,タバスコ
+106680,106765,simple,fried chicken,からあげ
+106837,106922,simple,pudding,プリン
+106910,106995,simple,bread,パン
+107150,107235,simple,sushi,寿司
+107191,107276,simple,cheese,チーズ
+107212,107297,simple,cheese,チーズ
+107270,107355,simple,pudding,プリン
+107335,107420,simple,curry,カレー
+107370,107455,simple,shrimp,シュリンプ
+107496,107581,simple,cheese,チーズ
+107500,107585,simple,pudding,プリン
+107698,107783,simple,hamburger,れたす
+107945,108030,simple,meat,獣肉
+107948,108033,simple,grilled meat,焼き肉
+107951,108036,simple,hamburger,ハンバーガー
+107980,108065,simple,omelette rice,オムライス
+108025,108110,simple,hamburger,ハンバーグ
+108115,108200,simple,hamburger,ゴマ
+108137,108222,simple,strawberry,いちご
+108156,108241,simple,strawberry,イチゴ
+108325,108410,simple,hamburger,わたあめ
+108459,108544,simple,burger,バーガー
+108468,108553,simple,tomato,とまと
+108474,108559,simple,fried chicken,フライドチキン
+108535,108620,simple,hamburger,ドーナツ
+108565,108650,simple,sushi,寿司
+108601,108686,simple,egg,たまご
+108677,108762,simple,hamburger,スイーツ
+108692,108777,simple,chocolate,チョコレート
+108726,108811,simple,omelette rice,オムライス
+108743,108828,simple,sushi,寿司
+108770,108855,simple,teriyaki,てりやき
+108784,108869,simple,cheese,チーズ
+108786,108871,simple,tomato,トマト
+108833,108918,simple,ice cream,アイス
+108849,108934,simple,steak,ステーキ
+108850,108935,simple,bread,パン
+108864,108949,simple,curry,カレー
+108888,108973,simple,hamburger,ひいあんず
+108914,108999,simple,chicken,チキン
+109003,109088,simple,burger,ばーがー
+109011,109096,simple,chicken,鶏
+109024,109109,simple,fried chicken,からあげ
+109156,109241,simple,hamburger,フルーツ
+109236,109321,simple,strawberry,いちご
+109244,109329,simple,hamburger,パクチー
+109247,109332,simple,shrimp,えび
+109316,109401,simple,hamburger,ハンバーグ
+109449,109534,simple,pizza,ピザ
+109465,109550,simple,rice,ライス
+109478,109563,simple,cheese,チーズ
+109482,109567,simple,hamburger,いちじく
+109483,109568,simple,sushi,寿司
+109507,109592,simple,hamburger,ビートルート
+109512,109597,simple,rice,米
+109517,109602,simple,hamburger,バンズ
+109519,109604,simple,hamburger,バゲット
+109680,109765,simple,crab,かに
+109800,109885,simple,ramen,ラーメン
+109801,109886,simple,omelette rice,オムライス
+109820,109905,simple,strawberry,イチゴ
+109859,109944,simple,fried chicken,フライドチキン
+109899,109984,simple,curry,カレー
+109936,110021,simple,sushi,sushi
+109942,110027,simple,sushi,寿司
+109948,110033,simple,burger,バーガー
+109957,110042,simple,takoyaki,たこ焼き
+110076,110161,simple,burger,バーガー
+110178,110263,simple,french fries,ポテト
+110196,110281,simple,hamburger,バンズ
+110235,110320,simple,meat,肉
+110244,110329,simple,omelette rice,オムライス
+110277,110362,simple,chocolate,チョコレート
+110298,110383,simple,rice,ごはん
+110337,110422,simple,omelette rice,オムライス
+110413,110498,simple,hamburger,ラム酒
+110460,110545,simple,cheese,チーズ
+110489,110574,simple,tomato,トマト
+110498,110583,simple,udon,うどん
