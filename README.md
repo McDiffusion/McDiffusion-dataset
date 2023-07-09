@@ -15,5 +15,4 @@ This dataset has been made publicly available with the intention that it will be
 
 # How to Use
 - Clone the repository or download the dataset.
-- Run `download_data.py` to get images.
-
+- Use `burgers.csv` to get metadata.
